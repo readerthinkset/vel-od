@@ -34,7 +34,42 @@
       "transliteration": "ame satata kahidele misibu",
       "category": "Time",
       "generated_at": "2026-11-10T08:28:33.543939"
+    },
+    {
+      "english": "Where is the checkout counter, please?",
+      "odia": "ଦୟାକରି କାଉଣ୍ଟର କେଉଁଠି?",
+      "transliteration": "dayākarī kāuṇṭar keunṭhi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T08:41:00.648949"
+    },
+    {
+      "english": "How much is this, exactly?",
+      "odia": "ଏହାର ଦାମ କେତେ, ଠିକ୍ ଅଛି?",
+      "transliteration": "ehāra dām kete, ṭhik achhi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T08:41:00.648962"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "odia": "ଦୟାକରି, ଏହା ପିନ୍ଧି ଦେଖିପାରିବି?",
+      "transliteration": "dayākarī, ehā piṇḍhi dekhibārībi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T08:41:00.648964"
+    },
+    {
+      "english": "I only want one piece.",
+      "odia": "ମୋତେ କେବଳ ଗୋଟିଏ ପୀସ୍ ଦରକାର।",
+      "transliteration": "mote kebala goṭiē pīs darakār.",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T08:41:00.648965"
+    },
+    {
+      "english": "Do you have it in small size?",
+      "odia": "ଛୋଟ ସାଇଜ୍‌ରେ ଅଛି କି?",
+      "transliteration": "choṭa sāij-re achhi ki?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T08:41:00.648966"
     }
   ],
-  "last_updated": "2026-11-10T08:28:33.543940"
+  "last_updated": "2026-11-10T08:41:00.648968"
 }
