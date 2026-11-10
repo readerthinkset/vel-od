@@ -139,7 +139,42 @@
       "transliteration": "Bhulumane mote shikha‘e, tena au aaram kar.",
       "category": "Growth",
       "generated_at": "2026-11-10T20:50:13.324998"
+    },
+    {
+      "english": "A cow is eating grass, slowly.",
+      "odia": "ଗାଈ ଧୀରେ ଧୀରେ ଘାସ ଖାଉଛି।",
+      "transliteration": "Gai dheire dheire ghas khaauchhi.",
+      "category": "Animals",
+      "generated_at": "2026-11-10T22:14:48.364439"
+    },
+    {
+      "english": "The cat wants to come inside, please.",
+      "odia": "ବିଲେଇଟି ଭିତରକୁ ଆସିବାକୁ ଚାହୁଁଛି, ଦୟାକରି।",
+      "transliteration": "Bileiti bhitaraku asibaku chahun̐chhi, dayakari.",
+      "category": "Animals",
+      "generated_at": "2026-11-10T22:14:48.364451"
+    },
+    {
+      "english": "Look at the dog, it’s wagging.",
+      "odia": "କୁକୁରକୁ ଦେଖ, ଏହା ଲାଜ ଝୁଲାଉଛି।",
+      "transliteration": "Kukuraku dekh, eha laja jhulaauchhi.",
+      "category": "Animals",
+      "generated_at": "2026-11-10T22:14:48.364453"
+    },
+    {
+      "english": "That bird is singing outside, loudly.",
+      "odia": "ସେହି ପକ୍ଷୀଟି ବାହାରେ ଜୋରେ ଗାଉଛି।",
+      "transliteration": "Sehi pakshīti baahare jore gaauchhi.",
+      "category": "Animals",
+      "generated_at": "2026-11-10T22:14:48.364454"
+    },
+    {
+      "english": "The frog is jumping near the pond.",
+      "odia": "ପୋଖରୀ ପାଖରେ ବେଙ୍ଗଟି ଲମ୍ଫୁଛି।",
+      "transliteration": "Pokharī paakhare ben̐gata lṃphuchhi.",
+      "category": "Animals",
+      "generated_at": "2026-11-10T22:14:48.364455"
     }
   ],
-  "last_updated": "2026-11-10T20:50:13.324999"
+  "last_updated": "2026-11-10T22:14:48.364456"
 }
