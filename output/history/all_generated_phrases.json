@@ -1,4 +1,40 @@
 {
-  "phrases": [],
-  "last_updated": null
+  "phrases": [
+    {
+      "english": "What time is it, please?",
+      "odia": "ଦୟାକରି, ବର୍ତ୍ତମାନ କେତେ ବେଳ?",
+      "transliteration": "daya kari, bartamana kete bela?",
+      "category": "Time",
+      "generated_at": "2026-11-10T08:28:33.543923"
+    },
+    {
+      "english": "I’m running late, sorry.",
+      "odia": "ମୁଁ ଦେରି ହେଉଛି, ଦୁଃଖିତ।",
+      "transliteration": "mu deiri heuchhi, dukkhit",
+      "category": "Time",
+      "generated_at": "2026-11-10T08:28:33.543935"
+    },
+    {
+      "english": "It’s a quarter past eight.",
+      "odia": "ଏଟା ଆଠଟା ପনের ମିନିଟ୍ ପରେ।",
+      "transliteration": "eta ahta panchera minit pare",
+      "category": "Time",
+      "generated_at": "2026-11-10T08:28:33.543936"
+    },
+    {
+      "english": "It’s almost ten o’clock.",
+      "odia": "ଦଶଟା ହେବାକୁ ଯାଉଛି।",
+      "transliteration": "dasata hebaku jauchhi",
+      "category": "Time",
+      "generated_at": "2026-11-10T08:28:33.543938"
+    },
+    {
+      "english": "We’ll meet at seven sharp.",
+      "odia": "ଆମେ ସାତଟା କହିଦେଲେ ମିଶିବୁ।",
+      "transliteration": "ame satata kahidele misibu",
+      "category": "Time",
+      "generated_at": "2026-11-10T08:28:33.543939"
+    }
+  ],
+  "last_updated": "2026-11-10T08:28:33.543940"
 }
