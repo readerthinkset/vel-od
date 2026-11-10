@@ -35,7 +35,7 @@ LANGUAGE = {
     "english_fallback_voice": "en-US-GuyNeural",
     "native_voice": "",
     "native_fallback_voice": "",
-    "native_engine": "gtts",
+    "native_engine": "mms",
     "native_lang_code": "or",
     "english_rate": "-2%",
     "native_rate": "-6%",
