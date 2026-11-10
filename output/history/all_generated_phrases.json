@@ -69,7 +69,42 @@
       "transliteration": "choṭa sāij-re achhi ki?",
       "category": "Shopping",
       "generated_at": "2026-11-10T08:41:00.648966"
+    },
+    {
+      "english": "It’s sunny today, enjoy the day.",
+      "odia": "ଆଜି ସୂର୍ଯ୍ୟକିରଣ ଅଛି, ଦିନଟା ଉପଭୋଗ କରନ୍ତୁ।",
+      "transliteration": "Aji surjya-kiran achhi, dinata upabhoga karantu.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T19:26:09.299500"
+    },
+    {
+      "english": "Clouds are gathering, it might rain.",
+      "odia": "ମେଘ ଜମୁଛି, ବର୍ଷା ହୋଇପାରେ।",
+      "transliteration": "Megha jamuchhi, barsha hoipare.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T19:26:09.299512"
+    },
+    {
+      "english": "The rain is light, don’t worry.",
+      "odia": "ହାଲୁକା ବର୍ଷା ହେଉଛି, ଚିନ୍ତା କରନ୍ତୁନି।",
+      "transliteration": "Haluka barsha heuchhi, chinta karantu-ni.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T19:26:09.299513"
+    },
+    {
+      "english": "It’s raining now, take an umbrella.",
+      "odia": "ଏବେ ବର୍ଷା ହେଉଛି, ଛତା ନିଅନ୍ତୁ।",
+      "transliteration": "Ebe barsha heuchhi, chhata niaantu.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T19:26:09.299514"
+    },
+    {
+      "english": "The wind is strong today, be careful.",
+      "odia": "ଆଜି ପବନ ବେଶ ଜୋର, ସାବଧାନ ରୁହନ୍ତୁ।",
+      "transliteration": "Aji paban besh jor, sabadhaana ruhantu.",
+      "category": "Weather",
+      "generated_at": "2026-11-10T19:26:09.299516"
     }
   ],
-  "last_updated": "2026-11-10T08:41:00.648968"
+  "last_updated": "2026-11-10T19:26:09.299517"
 }
