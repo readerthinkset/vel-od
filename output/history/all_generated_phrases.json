@@ -209,7 +209,42 @@
       "transliteration": "Kam karantu, ehā bahuta jor.",
       "category": "Music",
       "generated_at": "2026-11-11T00:19:48.683891"
+    },
+    {
+      "english": "I need a smaller EMI this month.",
+      "odia": "ମୋ ଏହି ମାସରେ ଛୋଟ EMI ଦରକାର।",
+      "transliteration": "Mo ei masare chhota EMI darkar.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T03:52:20.071396"
+    },
+    {
+      "english": "Please check my bank balance now.",
+      "odia": "ଦୟାକରି ବର୍ତ୍ତମାନ ମୋ ବ୍ୟାଙ୍କ ବ୍ୟାଲାନ୍ସ ଯାଞ୍ଚ କର।",
+      "transliteration": "Dayakari bartaman mo bank balance janch kar.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T03:52:20.071410"
+    },
+    {
+      "english": "Did my salary get credited today, please?",
+      "odia": "ଆଜି ମୋ ଦରମା ଆସିଛି କି, ଦୟାକରି?",
+      "transliteration": "Aji mo dhrama asichi ki, dayakari?",
+      "category": "Finance",
+      "generated_at": "2026-11-11T03:52:20.071411"
+    },
+    {
+      "english": "I want to open a savings account.",
+      "odia": "ମୁଁ ସେଭିଂସ ଆକାଉଣ୍ଟ ଖୋଲିବାକୁ ଚାହୁଁଛି।",
+      "transliteration": "Mu sevinges akount kholibaku chahunchi.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T03:52:20.071413"
+    },
+    {
+      "english": "The ATM declined my card again.",
+      "odia": "ଏହି ATM ଆଉଥରେ ମୋ କାର୍ଡ ଅସ୍ଵୀକାର କରିଲା।",
+      "transliteration": "Ei ATM autehare mo card aswikar karila.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T03:52:20.071414"
     }
   ],
-  "last_updated": "2026-11-11T00:19:48.683893"
+  "last_updated": "2026-11-11T03:52:20.071416"
 }
