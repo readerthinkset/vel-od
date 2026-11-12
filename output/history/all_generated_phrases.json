@@ -489,7 +489,42 @@
       "transliteration": "Ame bayaskamananku haata joḍi shubhechchha deu.",
       "category": "Culture",
       "generated_at": "2026-11-12T21:24:21.225979"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "odia": "ନମସ୍କାର, ଆପଣ କେମିତି ଅଛନ୍ତି ଆଜି?",
+      "transliteration": "Namaskar, apan kemiti achhanti aji?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:39:58.500623"
+    },
+    {
+      "english": "Hi there, good to see you!",
+      "odia": "ନମସ୍କାର, ଆପଣଙ୍କୁ ଦେଖି ଭଲ ଲାଗିଲା!",
+      "transliteration": "Namaskar, apankku dekhi bhala lagila!",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:39:58.500636"
+    },
+    {
+      "english": "Good morning, have a nice day!",
+      "odia": "ଶୁଭ ସକାଳ, ଆପଣଙ୍କ ଦିନ ଭଲ ହେଉ!",
+      "transliteration": "Shubha sakala, apankara dina bhala heau!",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:39:58.500637"
+    },
+    {
+      "english": "Good afternoon, hope you’re doing well.",
+      "odia": "ଶୁଭ ଦୁପୁର, ଆପଣ ଭଲ ଥାନ୍ତୁ ବୋଲି ଆଶା କରୁଛି।",
+      "transliteration": "Shubha dupura, apan bhala thantu boli asha karuchhi.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:39:58.500637"
+    },
+    {
+      "english": "Good evening, how’s your day going?",
+      "odia": "ଶୁଭ ସନ୍ଧ୍ୟା, ଆପଣଙ୍କ ଦିନ କେମିତି ଚାଲୁଛି?",
+      "transliteration": "Shubha sandhya, apankara dina kemiti chaluchhi?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:39:58.500638"
     }
   ],
-  "last_updated": "2026-11-12T21:24:21.225981"
+  "last_updated": "2026-11-12T22:39:58.500641"
 }
