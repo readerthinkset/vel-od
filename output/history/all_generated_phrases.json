@@ -419,7 +419,42 @@
       "transliteration": "Mo mana haluka laguchhi, eka muhurtta.",
       "category": "Inner Peace",
       "generated_at": "2026-11-12T04:59:23.171330"
+    },
+    {
+      "english": "I study Odia every morning, slowly.",
+      "odia": "ମୁଁ ପ୍ରତିଦିନ ସକାଳେ ଓଡ଼ିଆ ପଢ଼ୁଛି, ଧୀରେ।",
+      "transliteration": "Mū pratidina sakālE oḍia paḍhuchi, dheire.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:38:35.167936"
+    },
+    {
+      "english": "Can you explain this lesson, please?",
+      "odia": "ଦୟାକରି ଏହି ପାଠଟି ବୁଝାଇପାରିବେ କି?",
+      "transliteration": "Dayakari ehi pāṭaṭi bujhāi pāribe ki?",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:38:35.167951"
+    },
+    {
+      "english": "I don’t understand this word, yet.",
+      "odia": "ଏହି ଶବ୍ଦଟା ମୁଁ ଏଯାବତ୍ ବୁଝିପାରୁନି।",
+      "transliteration": "Ehi shabdaṭa mū ejābat bujhi pāruni.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:38:35.167952"
+    },
+    {
+      "english": "Please speak a little more slowly.",
+      "odia": "ଦୟାକରି ଟିକେ ଆଉ ଧୀରେ କହନ୍ତୁ।",
+      "transliteration": "Dayakari ṭike āu dheire kahan̄tu.",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:38:35.167953"
+    },
+    {
+      "english": "What does this sentence mean, in Odia?",
+      "odia": "ଓଡ଼ିଆରେ ଏହି ବାକ୍ୟର ଅର୍ଥ କ’ଣ?",
+      "transliteration": "Odiare ehi bākyara arṭha kaṇ̣a?",
+      "category": "Education",
+      "generated_at": "2026-11-12T19:38:35.167955"
     }
   ],
-  "last_updated": "2026-11-12T04:59:23.171332"
+  "last_updated": "2026-11-12T19:38:35.167956"
 }
