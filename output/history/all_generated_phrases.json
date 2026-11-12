@@ -454,7 +454,42 @@
       "transliteration": "Odiare ehi bākyara arṭha kaṇ̣a?",
       "category": "Education",
       "generated_at": "2026-11-12T19:38:35.167955"
+    },
+    {
+      "english": "What festivals are you celebrating this month?",
+      "odia": "ଏହି ମାସରେ କେଉଁ ଉତ୍ସବ ପାଳୁଛ?",
+      "transliteration": "Ei maasare keun utsab palauchha?",
+      "category": "Culture",
+      "generated_at": "2026-11-12T21:24:21.225960"
+    },
+    {
+      "english": "Today, we all meet at the temple.",
+      "odia": "ଆଜି, ଆମେ ସମସ୍ତେ ମନ୍ଦିରରେ ମିଳୁଛୁ।",
+      "transliteration": "Aji, ame samaste mandirare miluchhu.",
+      "category": "Culture",
+      "generated_at": "2026-11-12T21:24:21.225976"
+    },
+    {
+      "english": "People here share food with neighbors.",
+      "odia": "ଏଠାର ଲୋକମାନେ ପଡ଼ୋଶୀଙ୍କ ସହ ଖାଦ୍ୟ ବାଣ୍ଟନ୍ତି।",
+      "transliteration": "Ethaara lokamanen padośiṅka saha khaadya baṇṭanti.",
+      "category": "Culture",
+      "generated_at": "2026-11-12T21:24:21.225977"
+    },
+    {
+      "english": "Do you drink tea after morning prayers?",
+      "odia": "ସକାଳ ପୂଜା ପରେ ଆପଣ ଚାହା ପିଅନ୍ତି କି?",
+      "transliteration": "Sakaal pooja pare apana chaaha pibhanti ki?",
+      "category": "Culture",
+      "generated_at": "2026-11-12T21:24:21.225978"
+    },
+    {
+      "english": "We greet elders with folded hands.",
+      "odia": "ଆମେ ବୟସ୍କମାନଙ୍କୁ ହାତ ଯୋଡ଼ି ଶୁଭେଚ୍ଛା ଦେଉ।",
+      "transliteration": "Ame bayaskamananku haata joḍi shubhechchha deu.",
+      "category": "Culture",
+      "generated_at": "2026-11-12T21:24:21.225979"
     }
   ],
-  "last_updated": "2026-11-12T19:38:35.167956"
+  "last_updated": "2026-11-12T21:24:21.225981"
 }
