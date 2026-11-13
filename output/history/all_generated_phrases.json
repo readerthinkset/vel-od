@@ -594,7 +594,42 @@
       "transliteration": "Mo uddeshya shanti, ebam daya.",
       "category": "Purpose",
       "generated_at": "2026-11-13T04:13:33.003790"
+    },
+    {
+      "english": "Inhale slowly, feel the room around you.",
+      "odia": "ଧୀରେ ଶ୍ୱାସ ନିଅ, ତୁମ ଚାରିପଟେ ଅନୁଭବ କର।",
+      "transliteration": "Dhire shwas ni’o, tuma charipate anubhaba kara.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T19:17:56.655638"
+    },
+    {
+      "english": "Exhale gently, relax your shoulders now.",
+      "odia": "ଧୀରେ ଶ୍ୱାସ ଛାଡ଼, ଏବେ ତୁମ ଦେହ ଶିଥିଲା କର।",
+      "transliteration": "Dhire shwas chhād’o, ebe tuma deha shitilā kara.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T19:17:56.655651"
+    },
+    {
+      "english": "Feel your feet, grounded and steady.",
+      "odia": "ତୁମ ପାଦକୁ ଅନୁଭବ କର, ଭଲ ଭାବରେ ଦୃଢ଼।",
+      "transliteration": "Tuma padaku anubhaba kara, bhala bhabare dr̥iḍha.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T19:17:56.655652"
+    },
+    {
+      "english": "Let your breath be your guide.",
+      "odia": "ତୁମ ଶ୍ୱାସକୁ ନିଜର ପଥପ୍ରଦର୍ଶକ ହେବାକୁ ଦିଅ।",
+      "transliteration": "Tuma shwasaku nijara pathapradarshaka hebāku di’o.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T19:17:56.655653"
+    },
+    {
+      "english": "Right now, be present with me.",
+      "odia": "ଏଇ ମୁହୂର୍ତ୍ତରେ, ମୋ ସହିତ ଉପସ୍ଥିତ ରୁହ।",
+      "transliteration": "Ei muhurtta re, mo sahita upasthita ruh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T19:17:56.655654"
     }
   ],
-  "last_updated": "2026-11-13T04:13:33.003791"
+  "last_updated": "2026-11-13T19:17:56.655656"
 }
