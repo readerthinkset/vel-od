@@ -664,7 +664,42 @@
       "transliteration": "Chal, bahare dasha minit chaliba.",
       "category": "Health",
       "generated_at": "2026-11-13T20:51:25.709442"
+    },
+    {
+      "english": "My wife makes our home happy, always.",
+      "odia": "ମୋ ସ୍ତ୍ରୀ ଆମ ଘରକୁ ସଦା ଖୁସି କରେ।",
+      "transliteration": "mo stri amara gharaku sada khusi kare",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T22:27:07.614471"
+    },
+    {
+      "english": "I miss my brother, we should talk.",
+      "odia": "ମୋ ଭାଇକୁ ମୁଁ ଭଲେ ପାଏ, କଥା ହେବା ଦରକାର।",
+      "transliteration": "mo bhai ku mu bhale pae, katha heba darkar",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T22:27:07.614483"
+    },
+    {
+      "english": "My friend always listens, thank you.",
+      "odia": "ମୋ ବନ୍ଧୁ ସବୁବେଳେ ଶୁଣେ, ଧନ୍ୟବାଦ।",
+      "transliteration": "mo bandhu sabubele shune, dhanyabad",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T22:27:07.614485"
+    },
+    {
+      "english": "Your father is kind, I can tell.",
+      "odia": "ତୁମର ବାପା ଦୟାଳୁ, ମୁଁ ଜାଣିପାରୁଛି।",
+      "transliteration": "tumara baba dayalu, mu janiparuchi",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T22:27:07.614486"
+    },
+    {
+      "english": "I love my sister, she understands me.",
+      "odia": "ମୁଁ ମୋ ଭଉଣୀକୁ ଭଲ ପାଏ, ସେ ମୋତେ ବୁଝେ।",
+      "transliteration": "mu mo bhouṇiki ku bhala pae, se mote bujhe",
+      "category": "Relationships",
+      "generated_at": "2026-11-13T22:27:07.614487"
     }
   ],
-  "last_updated": "2026-11-13T20:51:25.709444"
+  "last_updated": "2026-11-13T22:27:07.614489"
 }
