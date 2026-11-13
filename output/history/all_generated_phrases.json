@@ -629,7 +629,42 @@
       "transliteration": "Ei muhurtta re, mo sahita upasthita ruh.",
       "category": "Mindfulness",
       "generated_at": "2026-11-13T19:17:56.655654"
+    },
+    {
+      "english": "I drink warm water every morning, slowly.",
+      "odia": "ମୁଁ ପ୍ରତି ସକାଳେ ଧୀରେ ଧୀରେ ଗୁନା ପାଣି ପିଉଛି।",
+      "transliteration": "Mu prti sakale dhire dhire guna pani pijuchi.",
+      "category": "Health",
+      "generated_at": "2026-11-13T20:51:25.709426"
+    },
+    {
+      "english": "Please wash your hands before eating, now.",
+      "odia": "ଦୟାକରି ଖାଇବା ପୂର୍ବରୁ ହାତ ଧୁଅ, ଏବେ।",
+      "transliteration": "Dayakari khaiaba purbaru hata dhu, ebe.",
+      "category": "Health",
+      "generated_at": "2026-11-13T20:51:25.709437"
+    },
+    {
+      "english": "Do you have any headache today?",
+      "odia": "ଆଜି ତୁମର କିଛି ମୁଣ୍ଡବିଥା ଅଛି କି?",
+      "transliteration": "Aji tumara kichhi mundabitha achhi ki?",
+      "category": "Health",
+      "generated_at": "2026-11-13T20:51:25.709439"
+    },
+    {
+      "english": "I feel better after rest, thank you.",
+      "odia": "ବିଶ୍ରାମ ପରେ ମୋତେ ଭଲ ଲାଗୁଛି, ଧନ୍ୟବାଦ।",
+      "transliteration": "Bishram pare mote bhal laguchhi, dhanyabad.",
+      "category": "Health",
+      "generated_at": "2026-11-13T20:51:25.709441"
+    },
+    {
+      "english": "Let’s walk outside for ten minutes.",
+      "odia": "ଚାଲ, ବାହାରେ ଦଶ ମିନିଟ୍ ଚାଲିବା।",
+      "transliteration": "Chal, bahare dasha minit chaliba.",
+      "category": "Health",
+      "generated_at": "2026-11-13T20:51:25.709442"
     }
   ],
-  "last_updated": "2026-11-13T19:17:56.655656"
+  "last_updated": "2026-11-13T20:51:25.709444"
 }
