@@ -699,7 +699,42 @@
       "transliteration": "mu mo bhouṇiki ku bhala pae, se mote bujhe",
       "category": "Relationships",
       "generated_at": "2026-11-13T22:27:07.614487"
+    },
+    {
+      "english": "I feel happy today, really happy.",
+      "odia": "ଆଜି ମୋ ମନ ଖୁସି, ବହୁତ ଖୁସି।",
+      "transliteration": "Aji mo mana khusi, bahuta khusi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T00:32:18.828486"
+    },
+    {
+      "english": "A warm smile makes me happy.",
+      "odia": "ଗରମ ହସ ମୋତେ ଖୁସି କରେ।",
+      "transliteration": "Garam hasa mote khusi kare.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T00:32:18.828500"
+    },
+    {
+      "english": "I’m grateful, and I feel light.",
+      "odia": "ମୁଁ ଋଣୀ, ଏବଂ ହାଲୁକା ଲାଗୁଛି।",
+      "transliteration": "Mu jarni, ebam haluka laguchhi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T00:32:18.828501"
+    },
+    {
+      "english": "My heart is calm right now.",
+      "odia": "ଏବେ ମୋ ହୃଦୟ ଶାନ୍ତ।",
+      "transliteration": "Ebe mo hrudaya shanta.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T00:32:18.828502"
+    },
+    {
+      "english": "Good news always makes me smile.",
+      "odia": "ଭଲ ଖବର ମୋତେ ସବୁବେଳେ ହସାଏ।",
+      "transliteration": "Bhala khabara mote sabubele hasa-e.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T00:32:18.828503"
     }
   ],
-  "last_updated": "2026-11-13T22:27:07.614489"
+  "last_updated": "2026-11-14T00:32:18.828505"
 }
