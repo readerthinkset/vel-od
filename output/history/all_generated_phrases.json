@@ -769,7 +769,42 @@
       "transliteration": "daya kari, eha ku kam tikt karantu",
       "category": "Food",
       "generated_at": "2026-11-14T04:10:23.757253"
+    },
+    {
+      "english": "I need balance today, please.",
+      "odia": "ଆଜି ମୋତେ ସନ୍ତୁଳନ ଦରକାର, ଦୟାକରି।",
+      "transliteration": "Aji mote santulana darkar, dayakari.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:44:48.177820"
+    },
+    {
+      "english": "Take a deep breath, stay calm.",
+      "odia": "ଗଭୀର ଶ୍ୱାସ ନିଅନ୍ତୁ, ଶାନ୍ତ ରୁହନ୍ତୁ।",
+      "transliteration": "Gabhira shwasa nintuntu, shanta ruhantu.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:44:48.177838"
+    },
+    {
+      "english": "I’m trying to feel steady.",
+      "odia": "ମୁଁ ନିଜକୁ ଧୀରେ ଧୀରେ ଠିକ୍ ରଖିବାକୁ ଚେଷ୍ଟା କରୁଛି।",
+      "transliteration": "Mu mu nijaku dhire dhire thik rakhikaku chesta karuchhi.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:44:48.177839"
+    },
+    {
+      "english": "Let’s walk slowly, no rush.",
+      "odia": "ଚଳନ୍ତୁ ଧୀରେ ଧୀରେ, ତ୍ୱରା କରନ୍ତୁନାହିଁ।",
+      "transliteration": "Chalantu dhire dhire, tvara karuntunahin.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:44:48.177840"
+    },
+    {
+      "english": "Keep your weight centered, please.",
+      "odia": "ଦୟାକରି ତୁମର ଓଜନ ମଧ୍ୟଭାଗରେ ରଖ।",
+      "transliteration": "Dayakari tumara ojan madhyabaghara re rakh.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:44:48.177841"
     }
   ],
-  "last_updated": "2026-11-14T04:10:23.757254"
+  "last_updated": "2026-11-14T17:44:48.177843"
 }
