@@ -874,7 +874,42 @@
       "transliteration": "Eha eka chaturjyapurna dharana, satyare!",
       "category": "Creativity",
       "generated_at": "2026-11-14T21:13:26.519426"
+    },
+    {
+      "english": "I start work at eight today, yes.",
+      "odia": "ମୁଁ ଆଜି ଆଠଟାରେ କାମ ଆରମ୍ଭ କରୁଛି, ହଁ।",
+      "transliteration": "Mũ aaji aathatare kaam aarambha karuchi, hã.",
+      "category": "Work",
+      "generated_at": "2026-11-14T23:28:55.761983"
+    },
+    {
+      "english": "Can you help me with this task?",
+      "odia": "ତୁମେ ଏହି କାମରେ ମୋତେ ସାହାଯ୍ୟ କରିବ କି?",
+      "transliteration": "Tume ei kaamare mote sahaajya kariba ki?",
+      "category": "Work",
+      "generated_at": "2026-11-14T23:28:55.761994"
+    },
+    {
+      "english": "Please send the file to me now.",
+      "odia": "ଦୟାକରି ଏବେ ଫାଇଲ୍‌ଟି ମୋତେ ପଠାଅ।",
+      "transliteration": "Daya kari ebe phaaill-ti mote pathao.",
+      "category": "Work",
+      "generated_at": "2026-11-14T23:28:55.761996"
+    },
+    {
+      "english": "I will finish this by evening, don’t worry.",
+      "odia": "ସନ୍ଧ୍ୟା ସୁଦ୍ଧା ମୁଁ ଏହା ସରିକରିଦେବି, ଚିନ୍ତା କରନି।",
+      "transliteration": "Sandhya suddhha mũ eiha sarikaridebi, chinta karani.",
+      "category": "Work",
+      "generated_at": "2026-11-14T23:28:55.761998"
+    },
+    {
+      "english": "That meeting is at three o’clock today.",
+      "odia": "ଆଜି ସେହି ବୈଠକ ତିନିଟାରେ ଅଛି।",
+      "transliteration": "Aaji sehi baithak tinitaare achhi.",
+      "category": "Work",
+      "generated_at": "2026-11-14T23:28:55.761999"
     }
   ],
-  "last_updated": "2026-11-14T21:13:26.519428"
+  "last_updated": "2026-11-14T23:28:55.762001"
 }
