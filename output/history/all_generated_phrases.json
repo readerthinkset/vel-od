@@ -804,7 +804,42 @@
       "transliteration": "Dayakari tumara ojan madhyabaghara re rakh.",
       "category": "Balance",
       "generated_at": "2026-11-14T17:44:48.177841"
+    },
+    {
+      "english": "My head hurts, today.",
+      "odia": "ମୋ ମୁଣ୍ଡ ବିନ୍ଧୁଛି, ଆଜି।",
+      "transliteration": "mo mund bidhuchhi, aji.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T19:04:56.131795"
+    },
+    {
+      "english": "Touch your forehead gently.",
+      "odia": "ତୁମ ଗୋଧାକୁ ସହଜରେ ଛୁଆ।",
+      "transliteration": "tum godhaku sahajare chhua.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T19:04:56.131809"
+    },
+    {
+      "english": "I hurt my tooth badly.",
+      "odia": "ମୋ ଦାନ୍ତ ଖୁବ୍‌ ଯନ୍ତ୍ରଣା ହେଉଛି।",
+      "transliteration": "mo daant khub jantrana heu chhi.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T19:04:56.131811"
+    },
+    {
+      "english": "Keep your teeth clean, please.",
+      "odia": "ଦୟାକରି ତୁମ ଦାନ୍ତ ସଫା ରଖ।",
+      "transliteration": "dayakari tum daant safa rakha.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T19:04:56.131812"
+    },
+    {
+      "english": "My back is sore right now.",
+      "odia": "ଏବେ ମୋ ପିଠି ଯନ୍ତ୍ରଣା ହେଉଛି।",
+      "transliteration": "ebe mo pithi jantrana heu chhi.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-14T19:04:56.131813"
     }
   ],
-  "last_updated": "2026-11-14T17:44:48.177843"
+  "last_updated": "2026-11-14T19:04:56.131815"
 }
