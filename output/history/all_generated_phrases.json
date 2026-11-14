@@ -734,7 +734,42 @@
       "transliteration": "Bhala khabara mote sabubele hasa-e.",
       "category": "Happiness",
       "generated_at": "2026-11-14T00:32:18.828503"
+    },
+    {
+      "english": "I want some rice, please.",
+      "odia": "ଦୟାକରି, ମୋତେ କିଛି ଭାତ ଦିଅନ୍ତୁ।",
+      "transliteration": "daya kari, mote kichi bhata diontu",
+      "category": "Food",
+      "generated_at": "2026-11-14T04:10:23.757236"
+    },
+    {
+      "english": "This curry is really tasty.",
+      "odia": "ଏହି ଚଟଣିଟା ଖୁବ୍ ସ୍ୱାଦିଷ୍ଟ।",
+      "transliteration": "ehi chatani ta khub swadisht",
+      "category": "Food",
+      "generated_at": "2026-11-14T04:10:23.757250"
+    },
+    {
+      "english": "Can I have a glass of water?",
+      "odia": "ମୋତେ ଗୋଟିଏ ଗ୍ଲାସ୍‌ ପାଣି ମିଳିବ କି?",
+      "transliteration": "mote gotie ghlas pani miliba ki",
+      "category": "Food",
+      "generated_at": "2026-11-14T04:10:23.757251"
+    },
+    {
+      "english": "I’m hungry, give me something.",
+      "odia": "ମୋତେ ଭୋକ ଲାଗିଛି, କିଛି ଦିଅନ୍ତୁ।",
+      "transliteration": "mote bhoka lagichhi, kichi diontu",
+      "category": "Food",
+      "generated_at": "2026-11-14T04:10:23.757252"
+    },
+    {
+      "english": "Please make it less spicy.",
+      "odia": "ଦୟାକରି, ଏହାକୁ କମ୍ ତିକ୍ତ କରନ୍ତୁ।",
+      "transliteration": "daya kari, eha ku kam tikt karantu",
+      "category": "Food",
+      "generated_at": "2026-11-14T04:10:23.757253"
     }
   ],
-  "last_updated": "2026-11-14T00:32:18.828505"
+  "last_updated": "2026-11-14T04:10:23.757254"
 }
