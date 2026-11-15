@@ -1014,7 +1014,42 @@
       "transliteration": "daya kari mo thaakuramaanku daakibe?",
       "category": "Family Terms",
       "generated_at": "2026-11-15T19:39:32.717271"
+    },
+    {
+      "english": "Please help me, I’m trying my best.",
+      "odia": "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କର, ମୁଁ ଚେଷ୍ଟା କରୁଛି।",
+      "transliteration": "Dayakari mote sahajya kara, mu chesta karuchhi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T21:33:47.254906"
+    },
+    {
+      "english": "Thank you, you really made my day.",
+      "odia": "ଧନ୍ୟବାଦ, ତୁମେ ସତ୍ୟିକି ମୋ ଦିନଟା ଭଲ କଲା।",
+      "transliteration": "Danyabad, tume satyiki mo dinata bhal kala.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T21:33:47.254916"
+    },
+    {
+      "english": "Here, take this, it’s no problem.",
+      "odia": "ନିଅ, ଏହା ନେଇଯାଅ, କିଛି ନାହିଁ।",
+      "transliteration": "Nia, eha neijaa, kichhi nahin.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T21:33:47.254918"
+    },
+    {
+      "english": "It’s okay, mistakes happen, be kind.",
+      "odia": "କେମିତି ହେବନି, ଭୁଲ ହୁଏ, ଭଲମନ ରଖ।",
+      "transliteration": "Kemiti heibani, bhul hue, bhalaman rakha.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T21:33:47.254920"
+    },
+    {
+      "english": "You matter, please don’t give up.",
+      "odia": "ତୁମେ ମହତ୍ୱପୂର୍ଣ୍ଣ, ଦୟାକରି ହାର ମାନିବ ନାହିଁ।",
+      "transliteration": "Tume mahatwapurna, dayakari haar maniba nahin.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T21:33:47.254922"
     }
   ],
-  "last_updated": "2026-11-15T19:39:32.717272"
+  "last_updated": "2026-11-15T21:33:47.254924"
 }
