@@ -909,7 +909,42 @@
       "transliteration": "Aaji sehi baithak tinitaare achhi.",
       "category": "Work",
       "generated_at": "2026-11-14T23:28:55.761999"
+    },
+    {
+      "english": "Where is my shirt, please?",
+      "odia": "ମୋ ଶର୍ଟ କୋଉଠାରେ ଅଛି, ଦୟାକରି?",
+      "transliteration": "mo shirt kouṭhāre achhi, dayākarī?",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T03:55:02.123967"
+    },
+    {
+      "english": "This T-shirt feels too tight.",
+      "odia": "ଏହି ଟି-ଶର୍ଟଟା ବହୁତ ଟାଇଟ ଲାଗୁଛି।",
+      "transliteration": "ei ti-sharṭṭā bahut ṭāiṭ lāguchhi.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T03:55:02.123982"
+    },
+    {
+      "english": "My jeans are torn at the knee.",
+      "odia": "ମୋ ଜିନ୍ସ ଆଣ୍ଠୁ ଠାରେ ଛିରିଗଲା।",
+      "transliteration": "mo jeans āṇṭhu thāre chhirigala.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T03:55:02.123983"
+    },
+    {
+      "english": "Can I try this dress on?",
+      "odia": "ମୁଁ ଏହି ଡ୍ରେସ୍ ପରିବାକୁ ପାରିବି କି?",
+      "transliteration": "muṁ ei dress paribāku pāribi ki?",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T03:55:02.123984"
+    },
+    {
+      "english": "The shoes are too small for me.",
+      "odia": "ଜୁତାଟା ମୋ ପାଇଁ ଅତି ଛୋଟ।",
+      "transliteration": "jutāṭā mo pāiṁ āṭi chhoṭ.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T03:55:02.123985"
     }
   ],
-  "last_updated": "2026-11-14T23:28:55.762001"
+  "last_updated": "2026-11-15T03:55:02.123986"
 }
