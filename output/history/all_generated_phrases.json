@@ -1119,7 +1119,42 @@
       "transliteration": "Dayakari āu puni puni duḥkha prakāśa karināhīn.",
       "category": "Forgiveness",
       "generated_at": "2026-11-16T03:55:44.478629"
+    },
+    {
+      "english": "Hi, do you have a table for two?",
+      "odia": "ନମସ୍କାର, ଦୁଇଜଣଙ୍କ ପାଇଁ ଟେବୁଲ୍ ଅଛି କି?",
+      "transliteration": "Namaskara, dui jananka pain table achhi ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:43:17.005878"
+    },
+    {
+      "english": "We’re ready to order, please.",
+      "odia": "ଆମେ ଅର୍ଡର୍ କରିବାକୁ ପ୍ରସ୍ତୁତ, ଦୟାକରି।",
+      "transliteration": "Ame order karibaku prastuta, dayakari.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:43:17.005890"
+    },
+    {
+      "english": "What do you recommend today?",
+      "odia": "ଆଜି ଆପଣ କଣ ପରାମର୍ଶ କରିବେ?",
+      "transliteration": "Aji apana kana paramarsha karibe?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:43:17.005891"
+    },
+    {
+      "english": "Is your menu available in English?",
+      "odia": "ଆପଣଙ୍କର ମେନୁ ଇଂରାଜୀରେ ଅଛି କି?",
+      "transliteration": "Apankara menu ingrājire achhi ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:43:17.005893"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "odia": "ମୁଁ ଦୟାକରି ମେନୁ ଦେଖିପାରିବି କି?",
+      "transliteration": "Mu dashy kari menu dekhī paribi ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:43:17.005894"
     }
   ],
-  "last_updated": "2026-11-16T03:55:44.478633"
+  "last_updated": "2026-11-16T21:43:17.005895"
 }
