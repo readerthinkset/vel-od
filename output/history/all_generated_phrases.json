@@ -1154,7 +1154,42 @@
       "transliteration": "Mu dashy kari menu dekhī paribi ki?",
       "category": "Restaurant",
       "generated_at": "2026-11-16T21:43:17.005894"
+    },
+    {
+      "english": "I feel happy right now,",
+      "odia": "ମୁଁ ଏବେ ଖୁସି ଲାଗୁଛି,",
+      "transliteration": "Muṁ ebe khusi lāguchhi,",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T23:17:28.477646"
+    },
+    {
+      "english": "I feel nervous,",
+      "odia": "ମୋତେ ଭୟ ଲାଗୁଛି,",
+      "transliteration": "Mote bhaya lāguchhi,",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T23:17:28.477660"
+    },
+    {
+      "english": "I feel calm today,",
+      "odia": "ଆଜି ମୁଁ ଶାନ୍ତ ଲାଗୁଛି,",
+      "transliteration": "Aji muṁ śānta lāguchhi,",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T23:17:28.477661"
+    },
+    {
+      "english": "I feel sad about this,",
+      "odia": "ଏଥିପାଇଁ ମୁଁ ଦୁଃଖିତ,",
+      "transliteration": "Eṭhipāin muṁ duḥkhita,",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T23:17:28.477662"
+    },
+    {
+      "english": "I feel excited,",
+      "odia": "ମୁଁ ବହୁତ ଉତ୍ସାହିତ,",
+      "transliteration": "Muṁ bahuta utsāhita,",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T23:17:28.477663"
     }
   ],
-  "last_updated": "2026-11-16T21:43:17.005895"
+  "last_updated": "2026-11-16T23:17:28.477665"
 }
