@@ -1364,7 +1364,42 @@
       "transliteration": "Muṁ kahile, mo ātma-bishwāsa baḍe.",
       "category": "Growth",
       "generated_at": "2026-11-17T22:07:05.306721"
+    },
+    {
+      "english": "Please wait, I’m almost ready.",
+      "odia": "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ, ମୁଁ ଶୀଘ୍ର ତିଆରି ହେଉଛି।",
+      "transliteration": "Dayakari apekhya karantu, mu̐ shighra t̤airi heuchhi",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:48:12.393404"
+    },
+    {
+      "english": "Just breathe, everything will be okay.",
+      "odia": "କେବଳ ଶ୍ୱାସ ନିଅନ୍ତୁ, ସବୁ ଠିକ୍ ହେବ।",
+      "transliteration": "Kebala shwas nioùntū, sabu thik hebā",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:48:12.393414"
+    },
+    {
+      "english": "Wait a moment, I’m coming now.",
+      "odia": "ଦୟାକରି ଗୋଟେ ମହୁର୍ତ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ, ମୁଁ ଏବେ ଆସୁଛି।",
+      "transliteration": "Dayakari gotē muhūrtta apekhya karantu, mu̐ ebe asuchi",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:48:12.393428"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "odia": "ଧୈର୍ଯ୍ୟ ଧରନ୍ତୁ, ଏଥିପାଇଁ ସମୟ ଲାଗେ।",
+      "transliteration": "Dhairjya dharantu, ethipāin samaya lāge",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:48:12.393429"
+    },
+    {
+      "english": "I know it’s slow, but stay calm.",
+      "odia": "ଜାଣିଛି ଧୀରେ ହେଉଛି, ତଥାପି ଶାନ୍ତ ରୁହନ୍ତୁ।",
+      "transliteration": "Jānichhi dhīre heuchhi, tathāpi shānta ruhantu",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:48:12.393430"
     }
   ],
-  "last_updated": "2026-11-17T22:07:05.306722"
+  "last_updated": "2026-11-17T23:48:12.393431"
 }
