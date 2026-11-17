@@ -1259,7 +1259,42 @@
       "transliteration": "bas stoāp ehi digare ki",
       "category": "Directions",
       "generated_at": "2026-11-17T02:41:42.985676"
+    },
+    {
+      "english": "Hello, where is the nearest bus stop?",
+      "odia": "ନମସ୍କାର, ସବୁଠାରୁ ନିକଟତମ ବସ୍ ଷ୍ଟପ୍ କେଉଁଠି?",
+      "transliteration": "Namaskar, sabutharu nikatotama bas stop keunthi?",
+      "category": "Travel",
+      "generated_at": "2026-11-17T05:47:57.048241"
+    },
+    {
+      "english": "How much is a ticket to Puri?",
+      "odia": "ପୁରୀକୁ ଟିକେଟ୍ କେତେ?",
+      "transliteration": "Puriku ticket kete?",
+      "category": "Travel",
+      "generated_at": "2026-11-17T05:47:57.048254"
+    },
+    {
+      "english": "Is this train going to Cuttack?",
+      "odia": "ଏହି ଟ୍ରେନ୍ କଟକ ଯାଉଛି କି?",
+      "transliteration": "Ehi train katak jauchi ki?",
+      "category": "Travel",
+      "generated_at": "2026-11-17T05:47:57.048255"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "odia": "ମୁଁ କେଉଁଠି ଏକ SIM କାର୍ଡ କିଣିପାରିବି?",
+      "transliteration": "Mu kemiti kahi? Mu keunthi eka SIM card kiniparibi?",
+      "category": "Travel",
+      "generated_at": "2026-11-17T05:47:57.048256"
+    },
+    {
+      "english": "I need a taxi, please, right now.",
+      "odia": "ମୋତେ ଏବେ ଟ୍ୟାକ୍ସି ଦରକାର, ଦୟାକରି।",
+      "transliteration": "Mote ebe taxi darkar, dayakari.",
+      "category": "Travel",
+      "generated_at": "2026-11-17T05:47:57.048260"
     }
   ],
-  "last_updated": "2026-11-17T02:41:42.985677"
+  "last_updated": "2026-11-17T05:47:57.048261"
 }
