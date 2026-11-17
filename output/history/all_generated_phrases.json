@@ -1224,7 +1224,42 @@
       "transliteration": "Kahaku uttara debara purbaru bhab.",
       "category": "Wisdom",
       "generated_at": "2026-11-17T00:43:44.962585"
+    },
+    {
+      "english": "Go straight ahead, then turn left.",
+      "odia": "ସିଧା ଆଗକୁ ଯାଆନ୍ତୁ, ତାପରେ ବାମକୁ ଘୁରନ୍ତୁ।",
+      "transliteration": "siḍhā āgaku yāāntu, tāpare bāmakū ghurantu",
+      "category": "Directions",
+      "generated_at": "2026-11-17T02:41:42.985659"
+    },
+    {
+      "english": "Turn right at the next street.",
+      "odia": "ପରବର୍ତ୍ତୀ ରାସ୍ତାରେ ଡାହାଣକୁ ଘୁରନ୍ତୁ।",
+      "transliteration": "parbartī rāstarē ḍāhāṇakū ghurantu",
+      "category": "Directions",
+      "generated_at": "2026-11-17T02:41:42.985672"
+    },
+    {
+      "english": "Walk two minutes, then stop here.",
+      "odia": "ଦୁଇ ମିନିଟ୍ ଚାଲନ୍ତୁ, ତାପରେ ଏଠାରେ ଅଟକନ୍ତୁ।",
+      "transliteration": "dui miṇiṭ cālantū, tāpare eṭhāre aṭakantu",
+      "category": "Directions",
+      "generated_at": "2026-11-17T02:41:42.985674"
+    },
+    {
+      "english": "Please follow me to the station.",
+      "odia": "ଦୟାକରି ମୋ ସହିତ ଷ୍ଟେସନ୍‌କୁ ଯାଆନ୍ତୁ।",
+      "transliteration": "dayākari mo sahit seṭesannku yāāntu",
+      "category": "Directions",
+      "generated_at": "2026-11-17T02:41:42.985675"
+    },
+    {
+      "english": "Is the bus stop this way, please?",
+      "odia": "ବସ୍‌ ଷ୍ଟପ୍‌ ଏହି ଦିଗରେ କି?",
+      "transliteration": "bas stoāp ehi digare ki",
+      "category": "Directions",
+      "generated_at": "2026-11-17T02:41:42.985676"
     }
   ],
-  "last_updated": "2026-11-17T00:43:44.962587"
+  "last_updated": "2026-11-17T02:41:42.985677"
 }
