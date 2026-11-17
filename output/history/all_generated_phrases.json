@@ -1294,7 +1294,42 @@
       "transliteration": "Mote ebe taxi darkar, dayakari.",
       "category": "Travel",
       "generated_at": "2026-11-17T05:47:57.048260"
+    },
+    {
+      "english": "I can do this, I believe in myself.",
+      "odia": "ମୁଁ ଏହା କରିପାରିବି, ମୋ ଉପରେ ଆସ୍ଥା ଅଛି।",
+      "transliteration": "Mu eha kariparibi, mo upare astha achhi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:32:47.747986"
+    },
+    {
+      "english": "I’ve got this, don’t worry about me.",
+      "odia": "ମୁଁ ଏହା କରିନେବି, ମୋ ବିଷୟରେ ଚିନ୍ତା କରନି।",
+      "transliteration": "Mu eha karinebi, mo bishayare chinta karani.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:32:47.748001"
+    },
+    {
+      "english": "My hard work will pay off, soon.",
+      "odia": "ମୋର କଷ୍ଟ ଶ୍ରମ ଫଳ ଦେବ, ଶୀଘ୍ର।",
+      "transliteration": "Mora kashta shram phala deb, shighra.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:32:47.748002"
+    },
+    {
+      "english": "I’m ready, I can start right now.",
+      "odia": "ମୁଁ ପ୍ରସ୍ତୁତ, ଏବେ ଆରମ୍ଭ କରିପାରିବି।",
+      "transliteration": "Mu prasthuta, ebe arambha kariparibi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:32:47.748005"
+    },
+    {
+      "english": "Stay calm, I’ll handle it.",
+      "odia": "ଶାନ୍ତ ରୁହ, ମୁଁ ଏହା ଦେଖିନେବି।",
+      "transliteration": "Shanta ruh, mu eha dekhi nebi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:32:47.748007"
     }
   ],
-  "last_updated": "2026-11-17T05:47:57.048261"
+  "last_updated": "2026-11-17T20:32:47.748010"
 }
