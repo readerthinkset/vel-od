@@ -1469,7 +1469,42 @@
       "transliteration": "ajira prayasara phala miliba",
       "category": "Success",
       "generated_at": "2026-11-18T05:14:18.085548"
+    },
+    {
+      "english": "It is red, very bright.",
+      "odia": "ଏହା ଲାଲ, ବହୁତ ଉଜ୍ଜ୍ୱଳ।",
+      "transliteration": "Eha laal, bahuta ujjwala.",
+      "category": "Colors",
+      "generated_at": "2026-11-18T20:20:50.885251"
+    },
+    {
+      "english": "That wall is blue.",
+      "odia": "ସେହି କାନ୍ଥଟା ନୀଳ।",
+      "transliteration": "Sehi kaanthatā neela.",
+      "category": "Colors",
+      "generated_at": "2026-11-18T20:20:50.885264"
+    },
+    {
+      "english": "My shirt is green today.",
+      "odia": "ଆଜି ମୋ ଶାର୍ଟଟା ସବୁଜ।",
+      "transliteration": "Aji mo shārṭatā sabuja.",
+      "category": "Colors",
+      "generated_at": "2026-11-18T20:20:50.885265"
+    },
+    {
+      "english": "The sky looks gray, wow!",
+      "odia": "ଆକାଶଟା ଧୂସର ଲାଗୁଛି, ଆଶ୍ଚର୍ଯ୍ୟ!",
+      "transliteration": "Akasatā dhusar laaguchhi, āshcharya!",
+      "category": "Colors",
+      "generated_at": "2026-11-18T20:20:50.885266"
+    },
+    {
+      "english": "This flower is yellow.",
+      "odia": "ଏହି ଫୁଲଟି ହଳଦିଆ।",
+      "transliteration": "Ehi phulatī haladiā.",
+      "category": "Colors",
+      "generated_at": "2026-11-18T20:20:50.885267"
     }
   ],
-  "last_updated": "2026-11-18T05:14:18.085550"
+  "last_updated": "2026-11-18T20:20:50.885269"
 }
