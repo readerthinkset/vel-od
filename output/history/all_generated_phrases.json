@@ -1539,7 +1539,42 @@
       "transliteration": "Mũ sarala muhurtta pāĩ kr̥tajña.",
       "category": "Positive Life",
       "generated_at": "2026-11-18T21:48:26.893454"
+    },
+    {
+      "english": "I’m feeling thirsty right now, please water.",
+      "odia": "ମୁଁ ବର୍ତ୍ତମାନ ତିରିଆ ଲାଗୁଛି, ଦୟାକରି ପାଣି ଦିଅନ୍ତୁ।",
+      "transliteration": "muṁ bartamāna tiriā lāguchhi, dayākarī pāṇi diantu.",
+      "category": "Health",
+      "generated_at": "2026-11-18T23:20:58.375370"
+    },
+    {
+      "english": "Try slow breathing, it helps your body.",
+      "odia": "ଧୀରେ ଧୀରେ ଶ୍ୱାସ ନିଅ, ଏହା ତୁମ ଶରୀରକୁ ସାହାଯ୍ୟ କରେ।",
+      "transliteration": "dhīre dhīre śvās nîa, eha tum śarīraku sāhājya kare.",
+      "category": "Health",
+      "generated_at": "2026-11-18T23:20:58.375382"
+    },
+    {
+      "english": "My throat hurts, I need warm tea.",
+      "odia": "ମୋ ଗଳା ଦରୁଛି, ମୋତେ ଗରମ ଚାହା ପଡ଼ିବ।",
+      "transliteration": "mo galā daruchhi, mote garama chāhā paḍib.",
+      "category": "Health",
+      "generated_at": "2026-11-18T23:20:58.375384"
+    },
+    {
+      "english": "Don’t forget your medicine, take it after meal.",
+      "odia": "ତୁମର ଔଷଧ ଭୁଲିବ ନାହିଁ, ଖାଦ୍ୟ ପରେ ଖାଅ।",
+      "transliteration": "tumara auṣadha bhuliba nāhī, khādya pare khāa.",
+      "category": "Health",
+      "generated_at": "2026-11-18T23:20:58.375385"
+    },
+    {
+      "english": "I slept well last night, I’m relieved.",
+      "odia": "ଗତରାତି ଭଲ ଭାବରେ ଶୋଇଥିଲି, ମୁଁ ଆରାମ ପାଇଲି।",
+      "transliteration": "gatarāti bhala bhābare soithili, muṁ ārāma pāilī.",
+      "category": "Health",
+      "generated_at": "2026-11-18T23:20:58.375388"
     }
   ],
-  "last_updated": "2026-11-18T21:48:26.893456"
+  "last_updated": "2026-11-18T23:20:58.375390"
 }
