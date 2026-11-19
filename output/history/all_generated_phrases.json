@@ -1644,7 +1644,42 @@
       "transliteration": "Dayakari routerku shighra restart kar.",
       "category": "Technology",
       "generated_at": "2026-11-19T05:18:28.091529"
+    },
+    {
+      "english": "What’s cooking today, please tell me.",
+      "odia": "ଆଜି କଣ ରନ୍ଧାହେଉଛି, କହନ୍ତୁ ଦୟାକରି।",
+      "transliteration": "Aji kana randhahuuchhi, kahantu dayakari.",
+      "category": "Food",
+      "generated_at": "2026-11-19T20:03:13.568710"
+    },
+    {
+      "english": "I’ll try the fish curry, okay?",
+      "odia": "ମୁଁ ମାଛ ଭଜା ଖାଇବି, ଠିକ୍ ତ?",
+      "transliteration": "Mu machha bhaja khai bi, thik ta?",
+      "category": "Food",
+      "generated_at": "2026-11-19T20:03:13.568722"
+    },
+    {
+      "english": "Is this food spicy, actually?",
+      "odia": "ଏହି ଖାଦ୍ୟଟା ବେଶି ତୀକ୍ଷ୍ଣ କି?",
+      "transliteration": "Ehi khadyata besi tikshna ki?",
+      "category": "Food",
+      "generated_at": "2026-11-19T20:03:13.568724"
+    },
+    {
+      "english": "Please add a little more salt.",
+      "odia": "ଦୟାକରି ଅଳ୍ପ ଆଉ ଲୁଣ ଦିଅନ୍ତୁ।",
+      "transliteration": "Dayakari alpa au lun dion tu.",
+      "category": "Food",
+      "generated_at": "2026-11-19T20:03:13.568725"
+    },
+    {
+      "english": "No onions for me, please.",
+      "odia": "ମୋ ପାଇଁ ପିଆଜ ନାହିଁ, ଦୟାକରି।",
+      "transliteration": "Mo pain piaj nahin, dayakari.",
+      "category": "Food",
+      "generated_at": "2026-11-19T20:03:13.568726"
     }
   ],
-  "last_updated": "2026-11-19T05:18:28.091531"
+  "last_updated": "2026-11-19T20:03:13.568728"
 }
