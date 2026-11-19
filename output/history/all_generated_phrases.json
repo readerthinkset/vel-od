@@ -1679,7 +1679,42 @@
       "transliteration": "Mo pain piaj nahin, dayakari.",
       "category": "Food",
       "generated_at": "2026-11-19T20:03:13.568726"
+    },
+    {
+      "english": "I play cricket every weekend, okay?",
+      "odia": "ମୁଁ ପ୍ରତି ସପ୍ତାହ ଶନିବାରେ କ୍ରିକେଟ ଖେଳୁଛି, ଠିକ ତ?",
+      "transliteration": "Mu kriket prativa sataha shanibarē kheluchhi, thik ta?",
+      "category": "Sports",
+      "generated_at": "2026-11-19T22:04:16.358167"
+    },
+    {
+      "english": "Let’s warm up first, please.",
+      "odia": "ପ୍ରଥମେ ଅଳ୍ପ ଗରମ କରିବା, ଦୟାକରି।",
+      "transliteration": "Prathame alpa garama karibā, dayākarī.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T22:04:16.358181"
+    },
+    {
+      "english": "Pass the ball to me.",
+      "odia": "ବଲ୍‌ଟା ମୋତେ ପାସ୍ କର।",
+      "transliteration": "Balṭā mote pāsa kar.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T22:04:16.358183"
+    },
+    {
+      "english": "Nice shot, keep going!",
+      "odia": "ଭଲ ଶଟ୍‌, ଏଭଳି ଚାଲୁ ରଖ!",
+      "transliteration": "Bhala shot, ēbhalī chalu rakh!",
+      "category": "Sports",
+      "generated_at": "2026-11-19T22:04:16.358184"
+    },
+    {
+      "english": "I can’t breathe in this heat.",
+      "odia": "ଏତେ ଗରମରେ ମୋତେ ଶ୍ୱାସ ହୋଇପାରୁନି।",
+      "transliteration": "Ete garamare mote shwāsa hoipārunī.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T22:04:16.358185"
     }
   ],
-  "last_updated": "2026-11-19T20:03:13.568728"
+  "last_updated": "2026-11-19T22:04:16.358187"
 }
