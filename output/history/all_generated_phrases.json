@@ -1574,7 +1574,42 @@
       "transliteration": "gatarāti bhala bhābare soithili, muṁ ārāma pāilī.",
       "category": "Health",
       "generated_at": "2026-11-18T23:20:58.375388"
+    },
+    {
+      "english": "This melody is really beautiful.",
+      "odia": "ଏହି ସୁରଟି ବହୁତ ସୁନ୍ଦର।",
+      "transliteration": "Ehi surati bahuta sundara.",
+      "category": "Music",
+      "generated_at": "2026-11-19T01:34:00.911474"
+    },
+    {
+      "english": "Which song is this, please?",
+      "odia": "ଏହା କେଉଁ ଗୀତ, ଦୟାକରି?",
+      "transliteration": "Eha keun git, dayakari?",
+      "category": "Music",
+      "generated_at": "2026-11-19T01:34:00.911488"
+    },
+    {
+      "english": "Can you sing the chorus?",
+      "odia": "ତୁମେ କୋରସ୍‌ଟି ଗାଇପାରିବ?",
+      "transliteration": "Tume chorus ti gaipariba?",
+      "category": "Music",
+      "generated_at": "2026-11-19T01:34:00.911490"
+    },
+    {
+      "english": "I know this tune from before.",
+      "odia": "ମୁଁ ଏହି ଧୁନଟି ପୂର୍ବରୁ ଜାଣିଛି।",
+      "transliteration": "Mu ehi dhunati purbaru janichi.",
+      "category": "Music",
+      "generated_at": "2026-11-19T01:34:00.911491"
+    },
+    {
+      "english": "Let’s listen quietly for a minute.",
+      "odia": "ଚାଲ, ଗୋଟେ ମିନିଟ୍‌ ନୀରବରେ ଶୁଣିବା।",
+      "transliteration": "Chal, gote minit nīrbare suniba.",
+      "category": "Music",
+      "generated_at": "2026-11-19T01:34:00.911493"
     }
   ],
-  "last_updated": "2026-11-18T23:20:58.375390"
+  "last_updated": "2026-11-19T01:34:00.911495"
 }
