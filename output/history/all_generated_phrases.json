@@ -1714,7 +1714,42 @@
       "transliteration": "Ete garamare mote shwāsa hoipārunī.",
       "category": "Sports",
       "generated_at": "2026-11-19T22:04:16.358185"
+    },
+    {
+      "english": "Can I delay my loan EMI payment this month?",
+      "odia": "ଏହି ମାସେ ଲୋନ୍‌ EMI ପେମେଣ୍ଟ ବିଳମ୍ବ କରିପାରିବି କି?",
+      "transliteration": "Ei mase loan EMI payment bilamb kari paribi ki?",
+      "category": "Finance",
+      "generated_at": "2026-11-19T23:29:10.291796"
+    },
+    {
+      "english": "What is my current interest rate, please?",
+      "odia": "ଦୟାକରି ମୋର ବର୍ତ୍ତମାନ ସୁଦ ହାର କେତେ?",
+      "transliteration": "Dayakari mora bartamana sud har kete?",
+      "category": "Finance",
+      "generated_at": "2026-11-19T23:29:10.291806"
+    },
+    {
+      "english": "Is there any foreclosures fee for my loan?",
+      "odia": "ମୋର ଲୋନ୍‌ ପାଇଁ foreclosure ଫି ଅଛି କି?",
+      "transliteration": "Mora loan pain foreclosure fee achhi ki?",
+      "category": "Finance",
+      "generated_at": "2026-11-19T23:29:10.291808"
+    },
+    {
+      "english": "I paid the installment yesterday, it reached?",
+      "odia": "ମୁଁ ଗତକାଲି installment ଦେଇଥିଲି, ପହଁଚିଲା କି?",
+      "transliteration": "Mu gatikali installment dei thili, pahanchila ki?",
+      "category": "Finance",
+      "generated_at": "2026-11-19T23:29:10.291809"
+    },
+    {
+      "english": "Please share my statement for last month.",
+      "odia": "ଦୟାକରି ଗତ ମାସର ଷ୍ଟେଟମେଣ୍ଟ ଦିଅନ୍ତୁ।",
+      "transliteration": "Dayakari gata masara statement diantu.",
+      "category": "Finance",
+      "generated_at": "2026-11-19T23:29:10.291811"
     }
   ],
-  "last_updated": "2026-11-19T22:04:16.358187"
+  "last_updated": "2026-11-19T23:29:10.291813"
 }
