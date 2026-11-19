@@ -1609,7 +1609,42 @@
       "transliteration": "Chal, gote minit nīrbare suniba.",
       "category": "Music",
       "generated_at": "2026-11-19T01:34:00.911493"
+    },
+    {
+      "english": "I forgot my phone password, please help.",
+      "odia": "ମୋ ଫୋନ ପାସୱାର୍ଡ ଭୁଲିଗଲି, ଦୟାକରି ହେଲ୍ପ କର।",
+      "transliteration": "Mo phone password bhuli geli, dayakari help kar.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T05:18:28.091511"
+    },
+    {
+      "english": "Can you share your Wi‑Fi password?",
+      "odia": "ତୁମେ ତୁମର ଵାଇ-ଫାଇ ପାସୱାର୍ଡ ସେୟାର କରିପାରିବ?",
+      "transliteration": "Tume tumara Wi-Fi password seyar karipariba?",
+      "category": "Technology",
+      "generated_at": "2026-11-19T05:18:28.091526"
+    },
+    {
+      "english": "My internet is slow right now.",
+      "odia": "ଏବେ ମୋର ଇଣ୍ଟରନେଟ ଧୀରେ ଚାଲୁଛି।",
+      "transliteration": "Ebe mora internet dhire chaluchhi.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T05:18:28.091527"
+    },
+    {
+      "english": "The network keeps dropping, again.",
+      "odia": "ନେଟୱର୍କ ପୁଣି ପୁଣି ଡ୍ରପ୍ ହେଉଛି।",
+      "transliteration": "Networking puni puni drop heuchhi.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T05:18:28.091529"
+    },
+    {
+      "english": "Please restart the router, quickly.",
+      "odia": "ଦୟାକରି ରାଉଟରକୁ ଶୀଘ୍ର ରିଷ୍ଟାର୍ଟ କର।",
+      "transliteration": "Dayakari routerku shighra restart kar.",
+      "category": "Technology",
+      "generated_at": "2026-11-19T05:18:28.091529"
     }
   ],
-  "last_updated": "2026-11-19T01:34:00.911495"
+  "last_updated": "2026-11-19T05:18:28.091531"
 }
