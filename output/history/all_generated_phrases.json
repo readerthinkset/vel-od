@@ -1784,7 +1784,42 @@
       "transliteration": "Apana kuade jauchhanti?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-20T01:29:47.672864"
+    },
+    {
+      "english": "I have a new notebook today.",
+      "odia": "ଆଜି ମୋର ଏକ ନୂଆ ଖତା ଅଛି।",
+      "transliteration": "Aji mora eka nua khata achhi.",
+      "category": "Education",
+      "generated_at": "2026-11-20T04:58:15.571543"
+    },
+    {
+      "english": "Where is the library in this area?",
+      "odia": "ଏହି ଅଞ୍ଚଳରେ ପୁସ୍ତକାଳୟ କେଉଁଠି?",
+      "transliteration": "Ehi anchalare pustakalaya kouthi?",
+      "category": "Education",
+      "generated_at": "2026-11-20T04:58:15.571557"
+    },
+    {
+      "english": "I want to learn everyday vocabulary.",
+      "odia": "ମୁଁ ଦৈନନ୍ଦିନ ଶବ୍ଦଭଣ୍ଡାର ଶିଖିବାକୁ ଚାହେଁ।",
+      "transliteration": "Mu kahendibina shabdabhandaara shikhibaku chahēn.",
+      "category": "Education",
+      "generated_at": "2026-11-20T04:58:15.571559"
+    },
+    {
+      "english": "Today, I read one short chapter.",
+      "odia": "ଆଜି, ମୁଁ ଗୋଟିଏ ଛୋଟ ଅଧ୍ୟାୟ ପଢ଼ୁଛି।",
+      "transliteration": "Aji, mu gotie chhota adhyāya padhuchhi.",
+      "category": "Education",
+      "generated_at": "2026-11-20T04:58:15.571560"
+    },
+    {
+      "english": "My teacher writes examples on the board.",
+      "odia": "ମୋର ଶିକ୍ଷକ ଫଳକରେ ଉଦାହରଣ ଲେଖନ୍ତି।",
+      "transliteration": "Mora shikshaka phalaker uadaharana lekhnati.",
+      "category": "Education",
+      "generated_at": "2026-11-20T04:58:15.571562"
     }
   ],
-  "last_updated": "2026-11-20T01:29:47.672866"
+  "last_updated": "2026-11-20T04:58:15.571563"
 }
