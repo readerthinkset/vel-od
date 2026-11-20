@@ -1889,7 +1889,42 @@
       "transliteration": "Mora lakṣya heuchhi ceṣṭā cālū rakhībā.",
       "category": "Purpose",
       "generated_at": "2026-11-20T21:48:09.647892"
+    },
+    {
+      "english": "Help me please, I need assistance.",
+      "odia": "ଦୟାକରି ସାହାଯ୍ୟ କରନ୍ତୁ, ମୋତେ ସହାୟତା ଦରକାର।",
+      "transliteration": "Dayakari sahajya karantu, mote sahayata darkar.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T23:01:03.199231"
+    },
+    {
+      "english": "Call an ambulance right now, please.",
+      "odia": "ଦୟାକରି ଏବେ ଆମ୍ବୁଲାନ୍ସକୁ ଫୋନ୍ କରନ୍ତୁ।",
+      "transliteration": "Dayakari ebe ambulanseku fon karantu.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T23:01:03.199243"
+    },
+    {
+      "english": "Is there a doctor nearby, please?",
+      "odia": "ଦୟାକରି ନିକଟରେ ଡାକ୍ତର ଅଛନ୍ତି କି?",
+      "transliteration": "Dayakari nikatare daktar achhanti ki?",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T23:01:03.199245"
+    },
+    {
+      "english": "I’m lost, can you help me?",
+      "odia": "ମୁଁ ହରାଇଯାଇଛି, ଆପଣେ ସାହାଯ୍ୟ କରିବେ କି?",
+      "transliteration": "Mu harai jaichi, apane sahajya karibe ki?",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T23:01:03.199246"
+    },
+    {
+      "english": "Stop, please! Something is wrong.",
+      "odia": "ବନ୍ଦ କରନ୍ତୁ, ଦୟାକରି! କିଛି ଠିକ୍ ନାହିଁ।",
+      "transliteration": "Band karantu, dayakari! Kichi thik nahi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T23:01:03.199247"
     }
   ],
-  "last_updated": "2026-11-20T21:48:09.647894"
+  "last_updated": "2026-11-20T23:01:03.199248"
 }
