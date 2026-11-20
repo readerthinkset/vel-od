@@ -1819,7 +1819,42 @@
       "transliteration": "Mora shikshaka phalaker uadaharana lekhnati.",
       "category": "Education",
       "generated_at": "2026-11-20T04:58:15.571562"
+    },
+    {
+      "english": "I wake up early, and smile.",
+      "odia": "ମୁଁ ଶୀଘ୍ର ଉଠେ, ହସେ।",
+      "transliteration": "mu shighra uche, hase",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-20T19:41:55.990481"
+    },
+    {
+      "english": "I wash my face, then brush teeth.",
+      "odia": "ମୁଁ ମୁହଁ ଧୋଏ, ତାପରେ ଦାନ୍ତ ଘସେ।",
+      "transliteration": "mu mukha dhoe, tarapare danta ghase",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-20T19:41:55.990492"
+    },
+    {
+      "english": "I drink tea, slowly, every morning.",
+      "odia": "ମୁଁ ପ୍ରତି ସକାଳେ ଚା ପିଏ, ଧୀରେ।",
+      "transliteration": "mu prati sakale cha piye, dhire",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-20T19:41:55.990494"
+    },
+    {
+      "english": "I make my bed, nicely.",
+      "odia": "ମୁଁ ମୋର ଶୟନ ଆଚ୍ଛାଦନ ଭଲଭାବେ କରେ।",
+      "transliteration": "mu mora shayan aachhadana balabhabare kare",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-20T19:41:55.990495"
+    },
+    {
+      "english": "I take a shower, then get dressed.",
+      "odia": "ମୁଁ ସ୍ନାନ କରେ, ପରେ ପୋଷାକ ପିନ୍ଧେ।",
+      "transliteration": "mu snana kare, pare poshaka pin dhe",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-20T19:41:55.990497"
     }
   ],
-  "last_updated": "2026-11-20T04:58:15.571563"
+  "last_updated": "2026-11-20T19:41:55.990499"
 }
