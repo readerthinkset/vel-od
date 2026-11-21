@@ -1959,7 +1959,42 @@
       "transliteration": "Amara panca minit achhi, apekhya kara.",
       "category": "Numbers",
       "generated_at": "2026-11-21T01:00:05.767053"
+    },
+    {
+      "english": "My neck feels stiff today, please.",
+      "odia": "ମୋ ଗଳା ଆଜି ବେଶି କଠିନ ଲାଗୁଛି, ଦୟାକରି।",
+      "transliteration": "mo gala aji besi kothin laguchhi, dayakari",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T04:52:42.885260"
+    },
+    {
+      "english": "Hold my hand, it hurts.",
+      "odia": "ମୋ ହାତ ଧର, ଏଥିରେ ବହୁତ ଯନ୍ତ୍ରଣା ହେଉଛି।",
+      "transliteration": "mo hata dhara, ethire bahuta jantarana heuchhi",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T04:52:42.885273"
+    },
+    {
+      "english": "Can you check my eyes, please?",
+      "odia": "ଆପଣ ମୋ ଚକ୍ଷୁ ଦେଖିପାରିବେ, ଦୟାକରି?",
+      "transliteration": "apana mo chakshu dekh­i paribe, dayakari",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T04:52:42.885275"
+    },
+    {
+      "english": "My shoulders are tired, today.",
+      "odia": "ମୋ କାନ୍ଧ ଆଜି ବହୁତ ଥକିଗଲା।",
+      "transliteration": "mo kãndha aji bahuta thaki gala",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T04:52:42.885275"
+    },
+    {
+      "english": "Please wash your hands now.",
+      "odia": "ଦୟାକରି ବର୍ତ୍ତମାନ ହାତ ଧୁଅ।",
+      "transliteration": "dayakari bartamana hata dhua",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T04:52:42.885276"
     }
   ],
-  "last_updated": "2026-11-21T01:00:05.767057"
+  "last_updated": "2026-11-21T04:52:42.885279"
 }
