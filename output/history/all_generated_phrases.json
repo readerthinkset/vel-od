@@ -2029,7 +2029,42 @@
       "transliteration": "Apane ebe keunṭhi jauchhanti?",
       "category": "Joy",
       "generated_at": "2026-11-21T18:47:11.915531"
+    },
+    {
+      "english": "Where are the fresh fruits, please?",
+      "odia": "ଦୟାକରି ତାଜା ଫଳ କେଉଁଠାରେ ଅଛି?",
+      "transliteration": "Daya kari taja phala keunthare achhi?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T20:27:41.172327"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "odia": "ଏହା ନୀଳରେ ଅଛି କି?",
+      "transliteration": "Eha nilare achhi ki?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T20:27:41.172338"
+    },
+    {
+      "english": "I’d like to buy this today.",
+      "odia": "ମୁଁ ଆଜି ଏହା କିଣିବାକୁ ଚାହୁଁଛି।",
+      "transliteration": "Mu aji eha kinibaku chahunchi.",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T20:27:41.172340"
+    },
+    {
+      "english": "Is there any discount today?",
+      "odia": "ଆଜି କୌଣସି ଛାଡ଼ ଅଛି କି?",
+      "transliteration": "Aji kounasi chhada achhi ki?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T20:27:41.172342"
+    },
+    {
+      "english": "Please pack it carefully for me.",
+      "odia": "ଦୟାକରି ମୋ ପାଇଁ ଭଲଭାବେ ପ୍ୟାକ୍ କରନ୍ତୁ।",
+      "transliteration": "Daya kari mo pain bhala bhabe paak karantu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T20:27:41.172343"
     }
   ],
-  "last_updated": "2026-11-21T18:47:11.915533"
+  "last_updated": "2026-11-21T20:27:41.172345"
 }
