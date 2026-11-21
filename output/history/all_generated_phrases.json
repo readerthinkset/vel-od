@@ -1924,7 +1924,42 @@
       "transliteration": "Band karantu, dayakari! Kichi thik nahi.",
       "category": "Emergency",
       "generated_at": "2026-11-20T23:01:03.199247"
+    },
+    {
+      "english": "I have one mango, please.",
+      "odia": "ମୋର ଗୋଟିଏ ଆମ୍ବ ଅଛି, ଦୟାକରି।",
+      "transliteration": "Mora gote amba achhi, dayakari.",
+      "category": "Numbers",
+      "generated_at": "2026-11-21T01:00:05.767028"
+    },
+    {
+      "english": "Give me two cups of tea.",
+      "odia": "ମୋତେ ଦୁଇ କପ୍ ଚା ଦିଅ।",
+      "transliteration": "Mote dui kap cha dia.",
+      "category": "Numbers",
+      "generated_at": "2026-11-21T01:00:05.767040"
+    },
+    {
+      "english": "I need three tickets for today.",
+      "odia": "ଆଜି ପାଇଁ ମୋତେ ତିନିଟି ଟିକେଟ୍ ଦରକାର।",
+      "transliteration": "Aji pain mote tinitī ticket darkar.",
+      "category": "Numbers",
+      "generated_at": "2026-11-21T01:00:05.767046"
+    },
+    {
+      "english": "She has four pens on the table.",
+      "odia": "ଟେବୁଲ୍ ଉପରେ ସେ ଚାରିଟି ପେନ୍ ଅଛି।",
+      "transliteration": "Tebul upare se chariti pen achhi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-21T01:00:05.767050"
+    },
+    {
+      "english": "We have five minutes, wait.",
+      "odia": "ଆମର ପାଞ୍ଚ ମିନିଟ୍ ଅଛି, ଅପେକ୍ଷା କର।",
+      "transliteration": "Amara panca minit achhi, apekhya kara.",
+      "category": "Numbers",
+      "generated_at": "2026-11-21T01:00:05.767053"
     }
   ],
-  "last_updated": "2026-11-20T23:01:03.199248"
+  "last_updated": "2026-11-21T01:00:05.767057"
 }
