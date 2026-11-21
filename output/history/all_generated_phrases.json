@@ -2064,7 +2064,42 @@
       "transliteration": "Daya kari mo pain bhala bhabe paak karantu.",
       "category": "Shopping",
       "generated_at": "2026-11-21T20:27:41.172343"
+    },
+    {
+      "english": "Can you tell me the time now?",
+      "odia": "ଆପଣ ଏବେ ସମୟ କହିବେ କି?",
+      "transliteration": "Apana ebe samaya kahibe ki?",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:06:47.854438"
+    },
+    {
+      "english": "Sorry, what time does it start?",
+      "odia": "ମାନେ କ୍ଷମା କରନ୍ତୁ, କେତେ ବେଳେ ଆରମ୍ଭ?",
+      "transliteration": "Mane kshyama karantu, kete bele arambha?",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:06:47.854451"
+    },
+    {
+      "english": "What time is breakfast tomorrow?",
+      "odia": "ଆସନ୍ତାକାଲି ସକାଳେ କେତେ ସମୟ ଜଳଖିଆ?",
+      "transliteration": "Asantakali sakale kete samaya jhalakhia?",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:06:47.854452"
+    },
+    {
+      "english": "I need to leave by six.",
+      "odia": "ମୁଁ ଛଅଟା ପୂର୍ବରୁ ଯିବାକୁ ପଡ଼ିବ।",
+      "transliteration": "Mu chhaʿotā purbaru jibaaku padiba.",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:06:47.854453"
+    },
+    {
+      "english": "Is dinner at seven or eight?",
+      "odia": "ରାତିଭୋଜନ ସାତଟା କି ଆଠଟାରେ?",
+      "transliteration": "Rati-bhojana satatā ki athatāre?",
+      "category": "Time",
+      "generated_at": "2026-11-21T22:06:47.854455"
     }
   ],
-  "last_updated": "2026-11-21T20:27:41.172345"
+  "last_updated": "2026-11-21T22:06:47.854456"
 }
