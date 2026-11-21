@@ -1994,7 +1994,42 @@
       "transliteration": "dayakari bartamana hata dhua",
       "category": "Body Parts",
       "generated_at": "2026-11-21T04:52:42.885276"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "odia": "ଶୁଭ ସକାଳ, ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "transliteration": "Shubha sakala, apana kemiti achhanti?",
+      "category": "Joy",
+      "generated_at": "2026-11-21T18:47:11.915516"
+    },
+    {
+      "english": "I’m fine, thanks for asking.",
+      "odia": "ମୁଁ ଭଲ ଅଛି, ପଚାରିଥିବାରୁ ଧନ୍ୟବାଦ।",
+      "transliteration": "Mu bhala achhi, pacharibhara dhanyabad.",
+      "category": "Joy",
+      "generated_at": "2026-11-21T18:47:11.915528"
+    },
+    {
+      "english": "What’s your name, please?",
+      "odia": "ଦୟାକରି ଆପଣଙ୍କ ନାମ କ’ଣ?",
+      "transliteration": "Dayakari apananka nama kana?",
+      "category": "Joy",
+      "generated_at": "2026-11-21T18:47:11.915529"
+    },
+    {
+      "english": "Nice to meet you today.",
+      "odia": "ଆଜି ଆପଣଙ୍କ ସହିତ ଭେଟି ଖୁସି ହେଲି।",
+      "transliteration": "Aji apananka sahita bhetī khusi heli.",
+      "category": "Joy",
+      "generated_at": "2026-11-21T18:47:11.915530"
+    },
+    {
+      "english": "Where are you going now?",
+      "odia": "ଆପଣେ ଏବେ କେଉଁଠି ଯାଉଛନ୍ତି?",
+      "transliteration": "Apane ebe keunṭhi jauchhanti?",
+      "category": "Joy",
+      "generated_at": "2026-11-21T18:47:11.915531"
     }
   ],
-  "last_updated": "2026-11-21T04:52:42.885279"
+  "last_updated": "2026-11-21T18:47:11.915533"
 }
