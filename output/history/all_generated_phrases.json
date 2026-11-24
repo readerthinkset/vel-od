@@ -2484,7 +2484,42 @@
       "transliteration": "Apananka pakhare taja lemon pani achhi ki?",
       "category": "Restaurant",
       "generated_at": "2026-11-24T04:51:34.332411"
+    },
+    {
+      "english": "I’ll let this go now, please.",
+      "odia": "ମୁଁ ଏହାକୁ ଏବେ ଛାଡ଼ି ଦେବି, ଦୟାକରି।",
+      "transliteration": "Mu ēhāku ēbe chāଡ଼i debi, dayākari.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T07:41:36.076558"
+    },
+    {
+      "english": "It’s okay, I won’t hold it.",
+      "odia": "ଠିକ୍ ଅଛି, ମୁଁ ଧରି ରଖିବିନି।",
+      "transliteration": "Thik achhi, muṁ dhari rakhibi-ni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T07:41:36.076573"
+    },
+    {
+      "english": "I understand, so I forgive you.",
+      "odia": "ମୁଁ ବୁଝୁଛି, ସେଥିପାଇଁ ମୁଁ ଛାଡ଼ି ଦେଉଛି।",
+      "transliteration": "Muṁ bujhuchhi, sethipāin muṁ chāଡ଼i deuchhi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T07:41:36.076575"
+    },
+    {
+      "english": "We can start fresh, it’s fine.",
+      "odia": "ଆମେ ନୂଆ ଆରମ୍ଭ କରିପାରିବା, ଠିକ୍ ଅଛି।",
+      "transliteration": "Āme nūā ārambha karipāribā, thik achhi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T07:41:36.076577"
+    },
+    {
+      "english": "I’m choosing peace, not anger.",
+      "odia": "ମୁଁ ରାଗ ନୁହେଁ, ଶାନ୍ତି ବାଛୁଛି।",
+      "transliteration": "Muṁ rāga nuheṁ, śānti bāchhuchhi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-24T07:41:36.076578"
     }
   ],
-  "last_updated": "2026-11-24T04:51:34.332413"
+  "last_updated": "2026-11-24T07:41:36.076580"
 }
