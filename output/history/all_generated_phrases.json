@@ -2449,7 +2449,42 @@
       "transliteration": "nirabata madhya shakti hoi pare, agaku jao",
       "category": "Inspiration",
       "generated_at": "2026-11-24T03:14:16.842390"
+    },
+    {
+      "english": "Good evening, I’m hungry for something nice.",
+      "odia": "ଶୁଭ ସନ୍ଧ୍ୟା, ମୋତେ କିଛି ସୁଆଦିଷ୍ଟ ଖାଇବାକୁ ଅଛି।",
+      "transliteration": "Shubha sandhya, mote kichhi suadista khaibaku achhi.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:51:34.332390"
+    },
+    {
+      "english": "Are there any vegetarian options today?",
+      "odia": "ଆଜି କିଛି ସବୁଜ ଖାଦ୍ୟ ବିକଳ୍ପ ଅଛି କି?",
+      "transliteration": "Aji kichi sabuja khady bikalpa achhi ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:51:34.332405"
+    },
+    {
+      "english": "I’d like something spicy, please.",
+      "odia": "ଦୟାକରି ମୋତେ ଟିକେ ଜ୍ୱଳନ୍ତ ଖାଦ୍ୟ ଦିଅନ୍ତୁ।",
+      "transliteration": "Dayakari mote tike jhulanata khady diantu.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:51:34.332407"
+    },
+    {
+      "english": "Could I have it without onions?",
+      "odia": "ପିଆଜ ଛାଡି ଏହା ମିଳିବ କି?",
+      "transliteration": "Piaj chadi eha miliba ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:51:34.332409"
+    },
+    {
+      "english": "Do you serve fresh lime water?",
+      "odia": "ଆପଣଙ୍କ ପାଖରେ ତାଜା ଲେମନ୍ ପାଣି ଅଛି କି?",
+      "transliteration": "Apananka pakhare taja lemon pani achhi ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:51:34.332411"
     }
   ],
-  "last_updated": "2026-11-24T03:14:16.842392"
+  "last_updated": "2026-11-24T04:51:34.332413"
 }
