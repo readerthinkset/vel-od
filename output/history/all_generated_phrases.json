@@ -2379,7 +2379,42 @@
       "transliteration": "āji aapananku śāntimaya īd abhinnandan.",
       "category": "Holidays",
       "generated_at": "2026-11-23T23:34:46.498555"
+    },
+    {
+      "english": "Good morning, I am visiting Odisha.",
+      "odia": "ଶୁଭ ସକାଳ, ମୁଁ ଓଡ଼ିଶା ଦେଖିବାକୁ ଆସିଛି।",
+      "transliteration": "Shubha sakala, muṁ Oḍiśā dekhībāku āsichhi.",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:32:07.439300"
+    },
+    {
+      "english": "Please help me, I’m lost.",
+      "odia": "ଦୟାକରି ସାହାଯ୍ୟ କରନ୍ତୁ, ମୁଁ ହରାଇଗଲି।",
+      "transliteration": "Dayākari sāhāyya karantu, muṁ harāigali.",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:32:07.439311"
+    },
+    {
+      "english": "Which platform is for this train?",
+      "odia": "ଏହି ଟ୍ରେନ୍‌ ପାଇଁ କେଉଁ ପ୍ଲାଟଫର୍ମ?",
+      "transliteration": "Ehi ṭren̄ pāiṁ keuṅ plāṭapharm?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:32:07.439313"
+    },
+    {
+      "english": "I want to go to the beach.",
+      "odia": "ମୁଁ ସମୁଦ୍ରକୂଳକୁ ଯିବାକୁ ଚାହୁଁଛି।",
+      "transliteration": "Muṁ samudrakūḷaku yibāku chāhuṅchhi.",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:32:07.439314"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "odia": "ନିକଟରେ ଟଏଲେଟ୍ ଅଛି କି?",
+      "transliteration": "Nikaṭare ṭoeleṭ achhi ki?",
+      "category": "Travel",
+      "generated_at": "2026-11-24T01:32:07.439315"
     }
   ],
-  "last_updated": "2026-11-23T23:34:46.498557"
+  "last_updated": "2026-11-24T01:32:07.439318"
 }
