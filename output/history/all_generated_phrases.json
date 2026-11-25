@@ -2624,7 +2624,42 @@
       "transliteration": "puja suryodaya pare aarambha hue.",
       "category": "Culture",
       "generated_at": "2026-11-25T01:19:31.765604"
+    },
+    {
+      "english": "My husband supports me, every day.",
+      "odia": "ମୋ ସ୍ୱାମୀ ମୋତେ ସମର୍ଥନ କରନ୍ତି, ପ୍ରତିଦିନ।",
+      "transliteration": "mo svaami mote samarthana karanti, pratidina.",
+      "category": "Relationships",
+      "generated_at": "2026-11-25T03:14:08.374031"
+    },
+    {
+      "english": "Your mother calls, thank you for answering.",
+      "odia": "ତୁମ ମାଆ ଡାକୁଛନ୍ତି, ଉତ୍ତର ଦେଇଥିବାରୁ ଧନ୍ୟବାଦ।",
+      "transliteration": "tum maa dakuchhanti, uttara deithibaaru dhanyabaad.",
+      "category": "Relationships",
+      "generated_at": "2026-11-25T03:14:08.374046"
+    },
+    {
+      "english": "I respect my uncle’s advice.",
+      "odia": "ମୁଁ ମୋ ମାମାଙ୍କ ପରାମର୍ଶକୁ ସମ୍ମାନ କରେ।",
+      "transliteration": "muṁ mo maamaaṅka paraamarshaku sammaan kare.",
+      "category": "Relationships",
+      "generated_at": "2026-11-25T03:14:08.374047"
+    },
+    {
+      "english": "My aunt cooks, and it smells great.",
+      "odia": "ମୋ ପିସି ରନ୍ଧେ, ଏବଂ ଗନ୍ଧ ଭଲ ଲାଗେ।",
+      "transliteration": "mo pisi rande, ebam gandha bhala laage.",
+      "category": "Relationships",
+      "generated_at": "2026-11-25T03:14:08.374048"
+    },
+    {
+      "english": "I trust my cousin, she’s honest.",
+      "odia": "ମୁଁ ମୋ ମାମୁଟି",
+      "transliteration": "muṁ mo maamuṭi/chachaauku bishwas kare, se satyabaadi.",
+      "category": "Relationships",
+      "generated_at": "2026-11-25T03:14:08.374049"
     }
   ],
-  "last_updated": "2026-11-25T01:19:31.765606"
+  "last_updated": "2026-11-25T03:14:08.374050"
 }
