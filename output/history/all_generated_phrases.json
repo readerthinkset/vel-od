@@ -2589,7 +2589,42 @@
       "transliteration": "nijaku bharasa kar, kaṭhina kam kari chha.",
       "category": "Strength",
       "generated_at": "2026-11-24T23:29:04.672428"
+    },
+    {
+      "english": "Which side do you sit on today?",
+      "odia": "ଆଜି ତୁମେ କେଉଁ ପାଶେ ବସିବ?",
+      "transliteration": "aaji tume keun paase basiba?",
+      "category": "Culture",
+      "generated_at": "2026-11-25T01:19:31.765587"
+    },
+    {
+      "english": "My neighbor offered me a sweet.",
+      "odia": "ମୋ ପଡୋଶୀ ମୋତେ ଏକ ମିଠା ଦେଲେ।",
+      "transliteration": "mo podoshi mote eka mitha dele.",
+      "category": "Culture",
+      "generated_at": "2026-11-25T01:19:31.765599"
+    },
+    {
+      "english": "We sprinkle water before the meal.",
+      "odia": "ଭୋଜନ ପୂର୍ବରୁ ଆମେ ପାଣି ଛିଟାଉ।",
+      "transliteration": "bojon purbaru ame paani chhitao.",
+      "category": "Culture",
+      "generated_at": "2026-11-25T01:19:31.765601"
+    },
+    {
+      "english": "Please keep your shoes outside.",
+      "odia": "ଦୟାକରି ଜୁତା ବାହାରେ ରଖ।",
+      "transliteration": "dayakari juta bahare rakh.",
+      "category": "Culture",
+      "generated_at": "2026-11-25T01:19:31.765603"
+    },
+    {
+      "english": "The puja starts after sunrise.",
+      "odia": "ପୂଜା ସୂର୍ଯ୍ୟୋଦୟ ପରେ ଆରମ୍ଭ ହୁଏ।",
+      "transliteration": "puja suryodaya pare aarambha hue.",
+      "category": "Culture",
+      "generated_at": "2026-11-25T01:19:31.765604"
     }
   ],
-  "last_updated": "2026-11-24T23:29:04.672434"
+  "last_updated": "2026-11-25T01:19:31.765606"
 }
