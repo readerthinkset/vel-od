@@ -2764,7 +2764,42 @@
       "transliteration": "Mu mo jalakhia upabhoga kili, setei thila thik.",
       "category": "Happiness",
       "generated_at": "2026-11-25T23:01:29.916302"
+    },
+    {
+      "english": "Go straight ahead, watch the lights.",
+      "odia": "ସିଧା ଯାଆନ୍ତୁ, ଆଲୋକ ଦେଖନ୍ତୁ।",
+      "transliteration": "Sidha jaaanti, aloka dekhn’tu.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:54:08.412647"
+    },
+    {
+      "english": "Turn left at the intersection.",
+      "odia": "ଚୌମୁହାଣିରେ ବାମକୁ ଘୁରନ୍ତୁ।",
+      "transliteration": "Choumuhāṇire bāmaku ghurantu.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:54:08.412661"
+    },
+    {
+      "english": "Keep walking, it's not far.",
+      "odia": "ଚାଲିଚାଲି ଯାଆନ୍ତୁ, ଅଧିକ ଦୂର ନୁହେଁ।",
+      "transliteration": "Chālichālichā jāaanti, adhika dur nuhen.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:54:08.412662"
+    },
+    {
+      "english": "Cross the road carefully here.",
+      "odia": "ଏଠାରେ ରାସ୍ତା ଧୀରେ ଅତିକ୍ରମ କରନ୍ତୁ।",
+      "transliteration": "Eṭhāre rāstā dhīre atikrama karantu.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:54:08.412663"
+    },
+    {
+      "english": "Take the first road on your right.",
+      "odia": "ତୁମର ଡାହାଣ ପଟର ପ୍ରଥମ ରାସ୍ତା ନିଅ।",
+      "transliteration": "Tumara dāhāṇa paṭara prathama rāstā nīo.",
+      "category": "Directions",
+      "generated_at": "2026-11-26T00:54:08.412664"
     }
   ],
-  "last_updated": "2026-11-25T23:01:29.916303"
+  "last_updated": "2026-11-26T00:54:08.412666"
 }
