@@ -2869,7 +2869,42 @@
       "transliteration": "Muṁ tuma pāiṁ nishchaya r̲ṇī, satyare.",
       "category": "Love",
       "generated_at": "2026-11-26T06:11:54.426323"
+    },
+    {
+      "english": "The puppy is chasing a ball now.",
+      "odia": "ସେଇ ପିଲା କୁକୁରଟା ଏବେ ବଲ୍ ଧାଉଛି।",
+      "transliteration": "sei pila kukurata ebe bol dhauchhi",
+      "category": "Animals",
+      "generated_at": "2026-11-26T21:00:32.519764"
+    },
+    {
+      "english": "My goat is walking beside the road.",
+      "odia": "ମୋ ଛେଳିଟା ରାସ୍ତା ପାଖରେ ଚାଲୁଛି।",
+      "transliteration": "mo chelita rasta pakhare chaluchhi",
+      "category": "Animals",
+      "generated_at": "2026-11-26T21:00:32.519776"
+    },
+    {
+      "english": "That horse looks calm today.",
+      "odia": "ଆଜି ସେଇ ଘୋଡ଼ାଟା ଶାନ୍ତ ଲାଗୁଛି।",
+      "transliteration": "aaji sei ghodata shanta laguchhi",
+      "category": "Animals",
+      "generated_at": "2026-11-26T21:00:32.519777"
+    },
+    {
+      "english": "The chicken is pecking on the ground.",
+      "odia": "ସେଇ ମୁରଗାଟା ଭୂମିରେ ଠୁଙ୍କୁଛି।",
+      "transliteration": "sei muragata bhumire thunuchhi",
+      "category": "Animals",
+      "generated_at": "2026-11-26T21:00:32.519778"
+    },
+    {
+      "english": "Please feed the fish in the bowl.",
+      "odia": "ଦୟାକରି ବାଟିରେ ମାଛକୁ ଖୁଆନ୍ତୁ।",
+      "transliteration": "dayakari batire machhaku khuaantu",
+      "category": "Animals",
+      "generated_at": "2026-11-26T21:00:32.519779"
     }
   ],
-  "last_updated": "2026-11-26T06:11:54.426325"
+  "last_updated": "2026-11-26T21:00:32.519781"
 }
