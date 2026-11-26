@@ -2799,7 +2799,42 @@
       "transliteration": "Tumara dāhāṇa paṭara prathama rāstā nīo.",
       "category": "Directions",
       "generated_at": "2026-11-26T00:54:08.412664"
+    },
+    {
+      "english": "Thanks for helping me today, genuinely.",
+      "odia": "ଆଜି ମୋତେ ସାହାଯ୍ୟ କରିଥିବାରୁ ଧନ୍ୟବାଦ।",
+      "transliteration": "Aji mote sahajya karithibaru dhanyabad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:32:36.612390"
+    },
+    {
+      "english": "I’m thankful for your patience, really.",
+      "odia": "ତୁମର ଧୈର୍ଯ୍ୟ ପାଇଁ ମୁଁ ଧନ୍ୟବାଦ।",
+      "transliteration": "Tumara dhairjya pain mu dhanyabad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:32:36.612403"
+    },
+    {
+      "english": "Thank you, I feel so supported.",
+      "odia": "ଧନ୍ୟବାଦ, ମୁଁ ବହୁତ ସହଯୋଗୀ ଭାବୁଛି।",
+      "transliteration": "Dhanyabad, mu bahuta sahayogi vabuchi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:32:36.612405"
+    },
+    {
+      "english": "I appreciate your quick help, so much.",
+      "odia": "ତୁମର ତୁରନ୍ତ ସାହାଯ୍ୟ ପାଇଁ ମୁଁ ବହୁତ ଆଭାରୀ।",
+      "transliteration": "Tumara turanta sahajya pain mu bahuta aabhari.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:32:36.612407"
+    },
+    {
+      "english": "Thanks for checking on me, today.",
+      "odia": "ଆଜି ମୋତେ ପଚାରିଚାଲିଥିବାରୁ ଧନ୍ୟବାଦ।",
+      "transliteration": "Aji mote pacharichalithibaru dhanyabad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:32:36.612408"
     }
   ],
-  "last_updated": "2026-11-26T00:54:08.412666"
+  "last_updated": "2026-11-26T02:32:36.612410"
 }
