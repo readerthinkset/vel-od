@@ -2904,7 +2904,42 @@
       "transliteration": "dayakari batire machhaku khuaantu",
       "category": "Animals",
       "generated_at": "2026-11-26T21:00:32.519779"
+    },
+    {
+      "english": "I want one more glass of water, please.",
+      "odia": "ଦୟାକରି ଆଉ ଗୋଟେ ଗିଲାସ ପାଣି ଦିଅନ୍ତୁ।",
+      "transliteration": "dayakari aau gotē gilasa pani diantu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T22:51:35.040508"
+    },
+    {
+      "english": "Do you have two bananas, here?",
+      "odia": "ତୁମ ପାଖରେ ଦୁଇଟି କଦଳୀ ଅଛି କି?",
+      "transliteration": "tuma pakharē duiti kadalī achhi ki?",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T22:51:35.040523"
+    },
+    {
+      "english": "Give me three sugar packets, please.",
+      "odia": "ଦୟାକରି ମୋତେ ତିନିଟି ସୁଗର ପ୍ୟାକେଟ୍ ଦିଅନ୍ତୁ।",
+      "transliteration": "dayakari mote tiniti sugar pyaakēt diantu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T22:51:35.040525"
+    },
+    {
+      "english": "My phone has four missed calls.",
+      "odia": "ମୋ ଫୋନ୍‌ରେ ଚାରିଟି ମିସ୍‌ କଲ୍‌ ଅଛି।",
+      "transliteration": "mo fon'rē chaariti mis kal achhi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T22:51:35.040527"
+    },
+    {
+      "english": "Let’s buy five apples now, quickly.",
+      "odia": "ଚଲ୍, ଏବେ ପାଞ୍ଚଟି ସେଉ କିଣିବା।",
+      "transliteration": "chal, ebe paanchati sēu kINibā.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T22:51:35.040528"
     }
   ],
-  "last_updated": "2026-11-26T21:00:32.519781"
+  "last_updated": "2026-11-26T22:51:35.040530"
 }
