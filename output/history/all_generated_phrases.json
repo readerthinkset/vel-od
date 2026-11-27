@@ -2960,7 +2960,28 @@
       "transliteration": "Ebe nadita bahuta shanta,",
       "category": "Nature",
       "generated_at": "2026-11-27T11:55:08.818039"
+    },
+    {
+      "english": "I can understand a little more now.",
+      "odia": "ମୁଁ ଏବେ ଆଉ କିଛି ବୁଝୁଛି।",
+      "transliteration": "Mu ebe au kichhi bujhu chhi",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:23:21.461343"
+    },
+    {
+      "english": "Could you say that one more time?",
+      "odia": "ଦୟାକରି ଆଉ ଥରେ କହିବେ?",
+      "transliteration": "Daya kari au thare kahibe?",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:23:21.461352"
+    },
+    {
+      "english": "I’ll speak slowly, that’s okay.",
+      "odia": "ମୁଁ ଧୀରେ କହିବି, ଠିକ ଅଛି।",
+      "transliteration": "Mu dheere kahibi, thik achhi",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:23:21.461354"
     }
   ],
-  "last_updated": "2026-11-27T11:55:08.818041"
+  "last_updated": "2026-11-27T19:23:21.461355"
 }
