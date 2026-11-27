@@ -2939,7 +2939,28 @@
       "transliteration": "chal, ebe paanchati sēu kINibā.",
       "category": "Numbers",
       "generated_at": "2026-11-26T22:51:35.040528"
+    },
+    {
+      "english": "The rain feels so nice today,",
+      "odia": "ଆଜି ବର୍ଷା ବହୁତ ଭଲ ଲାଗୁଛି,",
+      "transliteration": "Aji barsa bahuta bhala laguchhi,",
+      "category": "Nature",
+      "generated_at": "2026-11-27T11:55:08.818024"
+    },
+    {
+      "english": "I love the morning breeze,",
+      "odia": "ମୁଁ ସକାଳର ପବନକୁ ଭଲପାଏ,",
+      "transliteration": "Mu sakalara pabanaku bhalapae,",
+      "category": "Nature",
+      "generated_at": "2026-11-27T11:55:08.818037"
+    },
+    {
+      "english": "The river is calm right now,",
+      "odia": "ଏବେ ନଦୀଟା ବହୁତ ଶାନ୍ତ,",
+      "transliteration": "Ebe nadita bahuta shanta,",
+      "category": "Nature",
+      "generated_at": "2026-11-27T11:55:08.818039"
     }
   ],
-  "last_updated": "2026-11-26T22:51:35.040530"
+  "last_updated": "2026-11-27T11:55:08.818041"
 }
