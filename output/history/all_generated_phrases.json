@@ -3023,7 +3023,28 @@
       "transliteration": "Aji kadhali tarakari mitha ta",
       "category": "Food",
       "generated_at": "2026-11-28T11:29:27.543153"
+    },
+    {
+      "english": "I bumped my elbow, it hurts.",
+      "odia": "ମୋ କୋହୁଣିଟା ଲାଗିଲା, ଯନ୍ତ୍ରଣା ହେଉଛି।",
+      "transliteration": "Mo kohuniti lagila, yantranā heuchhi.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-28T17:59:13.513867"
+    },
+    {
+      "english": "My stomach feels upset today, please.",
+      "odia": "ଆଜି ମୋ ପେଟ ଖରାପ ଲାଗୁଛି, ଦୟାକରି।",
+      "transliteration": "Aji mo pet kharap laguchhi, dayākari.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-28T17:59:13.513879"
+    },
+    {
+      "english": "Please check my throat, it hurts.",
+      "odia": "ଦୟାକରି ମୋ ଗଳାଟା ଦେଖନ୍ତୁ, ଯନ୍ତ୍ରଣା ହେଉଛି।",
+      "transliteration": "Dayākari mo galāṭā dekhnātu, yantranā heuchhi.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-28T17:59:13.513883"
     }
   ],
-  "last_updated": "2026-11-28T11:29:27.543156"
+  "last_updated": "2026-11-28T17:59:13.513885"
 }
