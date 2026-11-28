@@ -3002,7 +3002,28 @@
       "transliteration": "Dayakari, apana mote sahayata karibe?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-28T03:40:19.153440"
+    },
+    {
+      "english": "I’d like a bowl of dal, please.",
+      "odia": "ଦୟାକରି ମୋତେ ଗୋଟେ ଡାଲ୍ ବାଟି ଦିଅନ୍ତୁ।",
+      "transliteration": "Dayakari mote gotie dal bati diantu",
+      "category": "Food",
+      "generated_at": "2026-11-28T11:29:27.543138"
+    },
+    {
+      "english": "Could I get some roti with it?",
+      "odia": "ଏଥିସହ ମୋତେ କିଛି ରୋଟି ମିଳିବ କି?",
+      "transliteration": "Ethisah mote kichi roti miliba ki",
+      "category": "Food",
+      "generated_at": "2026-11-28T11:29:27.543150"
+    },
+    {
+      "english": "Is the banana curry sweet today?",
+      "odia": "ଆଜି କଦଳି ତରକାରି ମିଠା ତ?",
+      "transliteration": "Aji kadhali tarakari mitha ta",
+      "category": "Food",
+      "generated_at": "2026-11-28T11:29:27.543153"
     }
   ],
-  "last_updated": "2026-11-28T03:40:19.153442"
+  "last_updated": "2026-11-28T11:29:27.543156"
 }
