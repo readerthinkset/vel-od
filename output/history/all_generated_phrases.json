@@ -2981,7 +2981,28 @@
       "transliteration": "Mu dheere kahibi, thik achhi",
       "category": "Growth",
       "generated_at": "2026-11-27T19:23:21.461354"
+    },
+    {
+      "english": "Please have some tea, it’s fresh.",
+      "odia": "ଦୟାକରି କିଛି ଚା ଖାଇବେ, ତାଜା ଅଛି।",
+      "transliteration": "Dayakari kichhi cha khaibe, taja achhi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-28T03:40:19.153427"
+    },
+    {
+      "english": "I’m looking for the bus stop.",
+      "odia": "ମୁଁ ବସ୍ ଷ୍ଟପ୍ ଖୋଜୁଛି।",
+      "transliteration": "Mu bus stop khojuchhi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-28T03:40:19.153438"
+    },
+    {
+      "english": "Can you help me, please?",
+      "odia": "ଦୟାକରି, ଆପଣ ମୋତେ ସହାୟତା କରିବେ?",
+      "transliteration": "Dayakari, apana mote sahayata karibe?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-28T03:40:19.153440"
     }
   ],
-  "last_updated": "2026-11-27T19:23:21.461355"
+  "last_updated": "2026-11-28T03:40:19.153442"
 }
